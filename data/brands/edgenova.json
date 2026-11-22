@@ -1,0 +1,94 @@
+{
+  "id": "brand-31",
+  "name": "边缘节点 EdgeNova",
+  "aliases": [
+    "edgenova",
+    "EdgeNova"
+  ],
+  "slug": "edgenova",
+  "rank": 31,
+  "tagline": "高速直连 + IPLC多线路智能自动分配，支持USDT",
+  "foundedAt": "2024",
+  "officialUrl": "https://work.edgenovaaff.cc/#/register?code=cl3iB5YG",
+  "affiliateUrl": "https://work.edgenovaaff.cc/#/register?code=cl3iB5YG",
+  "coupon": "TH888",
+  "couponDiscount": "8折优惠码",
+  "minPriceMonthly": 15,
+  "minPriceNote": "限时月付 ¥15/72GB；年付 ¥108/45GB",
+  "protocols": [
+    "VLESS",
+    "Trojan"
+  ],
+  "networkTypes": [
+    "高速直连",
+    "IPLC多线路自动分配"
+  ],
+  "nodeRegions": [
+    "香港",
+    "台湾",
+    "日本",
+    "新加坡",
+    "美国",
+    "欧洲"
+  ],
+  "nodeCount": "40+",
+  "clients": [
+    "Clash Verge Rev",
+    "v2rayN",
+    "Shadowrocket",
+    "FlClash"
+  ],
+  "aiSupport": {
+    "chatgpt": "待测",
+    "claude": "待测",
+    "gemini": "待测",
+    "notes": "未提供逐项测试结果"
+  },
+  "streamingSupport": {
+    "netflix": "待测",
+    "disney": "待测",
+    "youtube": "支持",
+    "tiktok": "待测",
+    "notes": "常规网页与视频通畅"
+  },
+  "benchmarkResults": {
+    "testedAt": "未提供逐地区测速",
+    "latency": "待核实",
+    "downloadSpeed": "待核实",
+    "packetLoss": "待核实",
+    "image": null,
+    "source": "暂无独立实测",
+    "verified": false
+  },
+  "plans": [
+    {
+      "name": "限时月付",
+      "price": 15,
+      "period": "月付",
+      "bandwidth": "72GB/月",
+      "notes": "8折优惠码 TH888 可用"
+    },
+    {
+      "name": "极界·标准",
+      "price": 25,
+      "period": "月付",
+      "bandwidth": "120GB/月",
+      "notes": "IPLC多线路分配"
+    }
+  ],
+  "strengths": [
+    "多线路自动分配机制",
+    "提供8折优惠码 TH888",
+    "支持支付宝/微信/USDT"
+  ],
+  "limitations": [
+    "近期逐地区实测数据缺失，待补充测试"
+  ],
+  "suitableUsers": "偏好USDT匿名支付、看重线路自动容灾的用户",
+  "riskNotes": "未独立实测解锁，建议月付核验",
+  "dataStatus": "待核实信息",
+  "sources": [
+    "历史品牌库记录"
+  ],
+  "logo": "/images/logos/edgenova_logo.webp"
+}

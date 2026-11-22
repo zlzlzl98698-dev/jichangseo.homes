@@ -1,0 +1,120 @@
+{
+  "id": "brand-02",
+  "name": "暮光加速",
+  "aliases": [
+    "muguang",
+    "暮光网络"
+  ],
+  "slug": "muguang",
+  "rank": 2,
+  "tagline": "BGP 智能调度专线级出口，多设备跨平台协同",
+  "foundedAt": "2023",
+  "officialUrl": "https://varnexa.twilightaff.com/#/?code=D1LHglg3",
+  "affiliateUrl": "https://varnexa.twilightaff.com/#/?code=D1LHglg3",
+  "coupon": "muguang5555",
+  "minPriceMonthly": 9,
+  "minPriceNote": "年付折合约 ¥9/月；月付 ¥20/120GB起",
+  "protocols": [
+    "VLESS",
+    "Trojan",
+    "Shadowsocks"
+  ],
+  "networkTypes": [
+    "BGP智能调度",
+    "专线级出口"
+  ],
+  "nodeRegions": [
+    "香港",
+    "台湾",
+    "新加坡",
+    "日本",
+    "美国",
+    "英国",
+    "德国"
+  ],
+  "nodeCount": "50+",
+  "clients": [
+    "Clash Verge Rev",
+    "v2rayN",
+    "Shadowrocket",
+    "FlClash",
+    "Sing-box"
+  ],
+  "aiSupport": {
+    "chatgpt": "全节点支持",
+    "claude": "支持",
+    "gemini": "视节点而定",
+    "notes": "ChatGPT 与 Claude 访问良好，Gemini 需匹配干净出口"
+  },
+  "streamingSupport": {
+    "netflix": "全区解锁",
+    "disney": "支持",
+    "youtube": "4K极速",
+    "tiktok": "支持",
+    "notes": "主流流媒体全面解锁"
+  },
+  "benchmarkResults": {
+    "testedAt": "2026-10-19",
+    "latency": "香港 26ms / 台湾 40ms / 新加坡 43ms / 日本 53ms / 美国 160ms",
+    "downloadSpeed": "香港 509Mbps / 新加坡 419Mbps / 日本 150Mbps / 台湾 107Mbps",
+    "packetLoss": "0.2%",
+    "image": null,
+    "source": "原文标注非晚高峰实测",
+    "verified": true
+  },
+  "plans": [
+    {
+      "name": "暮光·基础版",
+      "price": 20,
+      "period": "月付",
+      "bandwidth": "120GB/月",
+      "notes": "多端同登，BGP专线"
+    },
+    {
+      "name": "暮光·标准版",
+      "price": 40,
+      "period": "月付",
+      "bandwidth": "240GB/月",
+      "notes": "中度家庭与个人"
+    },
+    {
+      "name": "暮光·旗舰版",
+      "price": 100,
+      "period": "月付",
+      "bandwidth": "700GB/月",
+      "notes": "多设备大流量"
+    },
+    {
+      "name": "暮光·年付轻量版",
+      "price": 109,
+      "period": "年付",
+      "bandwidth": "70GB/月",
+      "notes": "折合约 ¥9/月"
+    },
+    {
+      "name": "暮光·不限时轻量包",
+      "price": 219,
+      "period": "一次性",
+      "bandwidth": "150GB",
+      "notes": "不限时无过期"
+    }
+  ],
+  "strengths": [
+    "BGP多线接入抗抖动强",
+    "多设备并发无软封锁限制",
+    "7x24小时人工客服协同响应",
+    "不限时流量包灵活性高"
+  ],
+  "limitations": [
+    "年付轻量套餐流量较紧凑(70GB/月)",
+    "优惠码力度依活动周期浮动"
+  ],
+  "suitableUsers": "跨平台多设备同时在线用户、团队跨境办公协同、流媒体爱好者",
+  "riskNotes": "一次性流量包单价偏高，只适合低频备用用户",
+  "dataStatus": "资料核实",
+  "sources": [
+    "品牌资料",
+    "2026实测参数"
+  ],
+  "logo": "/images/logos/galaxy_transparent_square.webp"
+}

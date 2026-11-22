@@ -1,0 +1,85 @@
+{
+  "id": "brand-17",
+  "name": "SOGO 云",
+  "aliases": [
+    "sogo",
+    "SogoCloud"
+  ],
+  "slug": "sogo",
+  "rank": 17,
+  "tagline": "2026年新锐架构，Shadowsocks高速协议，实测表现优秀",
+  "foundedAt": "2026",
+  "officialUrl": "https://guangs.sogoyunaff.cc/#/?code=327Vs0w7",
+  "affiliateUrl": "https://guangs.sogoyunaff.cc/#/?code=327Vs0w7",
+  "coupon": "SOGO10000",
+  "minPriceMonthly": 15,
+  "minPriceNote": "月付 ¥15起",
+  "protocols": [
+    "Shadowsocks",
+    "VLESS"
+  ],
+  "networkTypes": [
+    "新一代专线架构",
+    "低负载节点"
+  ],
+  "nodeRegions": [
+    "香港",
+    "台湾",
+    "日本",
+    "新加坡",
+    "美国"
+  ],
+  "nodeCount": "35+",
+  "clients": [
+    "Clash Verge Rev",
+    "v2rayN",
+    "Shadowrocket",
+    "Sing-box"
+  ],
+  "aiSupport": {
+    "chatgpt": "支持",
+    "claude": "支持",
+    "gemini": "支持",
+    "notes": "新开节点，IP非常纯净"
+  },
+  "streamingSupport": {
+    "netflix": "全区解锁",
+    "disney": "支持",
+    "youtube": "4K秒开",
+    "tiktok": "支持",
+    "notes": "流媒体未被风控"
+  },
+  "benchmarkResults": {
+    "testedAt": "2026-08-11",
+    "latency": "香港 25ms / 日本 48ms",
+    "downloadSpeed": "最高 78.5 MB/s (约 628Mbps)",
+    "packetLoss": "0%",
+    "image": "/images/benchmarks/SOGO云-节点测速实测.png",
+    "source": "MAI-TEST-BOT 实测截图",
+    "verified": true
+  },
+  "plans": [
+    {
+      "name": "SOGO新星版",
+      "price": 15,
+      "period": "月付",
+      "bandwidth": "100GB/月",
+      "notes": "纯净IP，新节点低负载"
+    }
+  ],
+  "strengths": [
+    "2026新架构，节点人少负载低",
+    "实测测速超 600Mbps，延迟低至 25ms",
+    "IP池纯净度高，AI工具不易封锁"
+  ],
+  "limitations": [
+    "新品牌开业时间较短，长期稳定性需时间检验"
+  ],
+  "suitableUsers": "追求高速度与纯净IP、乐于尝试新专线的小伙伴",
+  "riskNotes": "新品牌请严格坚持月付，观察运营情况",
+  "dataStatus": "实测验证",
+  "sources": [
+    "MAI-TEST-BOT 2.0.0 实测"
+  ],
+  "logo": "/images/logos/sogo.webp"
+}

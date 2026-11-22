@@ -1,0 +1,85 @@
+{
+  "id": "brand-28",
+  "name": "梯子云",
+  "aliases": [
+    "tiziyun",
+    "LadderCloud"
+  ],
+  "slug": "tiziyun",
+  "rank": 28,
+  "tagline": "自研全平台客户端 + 通用订阅双支持，2Gbps+独立带宽",
+  "foundedAt": "2025",
+  "officialUrl": "https://tiziyun3.ladderaff.com/#/?code=7EmnpHs0",
+  "affiliateUrl": "https://tiziyun3.ladderaff.com/#/?code=7EmnpHs0",
+  "coupon": "tiziyun",
+  "minPriceMonthly": 7.4,
+  "minPriceNote": "年付约 ¥7.4/月，60GB/月",
+  "protocols": [
+    "VLESS",
+    "Trojan"
+  ],
+  "networkTypes": [
+    "IEPL专线",
+    "2Gbps独立带宽"
+  ],
+  "nodeRegions": [
+    "香港",
+    "台湾",
+    "日本",
+    "新加坡",
+    "美国"
+  ],
+  "nodeCount": "60+",
+  "clients": [
+    "梯子云自研全平台客户端(一键登录)",
+    "Clash Verge Rev",
+    "v2rayN",
+    "Shadowrocket"
+  ],
+  "aiSupport": {
+    "chatgpt": "品牌资料称完美解锁",
+    "claude": "支持",
+    "gemini": "支持",
+    "notes": "AI高频生产力工具全面覆盖"
+  },
+  "streamingSupport": {
+    "netflix": "全区解锁",
+    "disney": "支持",
+    "youtube": "4K极速",
+    "tiktok": "支持",
+    "notes": "流媒体解锁良好"
+  },
+  "benchmarkResults": {
+    "testedAt": "2026厂商宣称",
+    "latency": "香港 ~32ms",
+    "downloadSpeed": "含500Mbps高峰冗余",
+    "packetLoss": "0%",
+    "image": null,
+    "source": "厂商资料",
+    "verified": false
+  },
+  "plans": [
+    {
+      "name": "梯子云轻量年付",
+      "price": 89,
+      "period": "年付",
+      "bandwidth": "60GB/月",
+      "notes": "折合约 ¥7.4/月，自研+通用双支持"
+    }
+  ],
+  "strengths": [
+    "自研全平台客户端 + 通用订阅双支持，兼具小白便利与极客自由",
+    "60+节点与2Gbps独立带宽",
+    "折合月付仅7.4元"
+  ],
+  "limitations": [
+    "2025年新开运营，长期稳定性持续观察中"
+  ],
+  "suitableUsers": "既希望有小白专属APP、又偶尔想用Clash进阶分流的用户",
+  "riskNotes": "新品牌请结合自身需求审慎年付",
+  "dataStatus": "厂商宣称",
+  "sources": [
+    "品牌资料原文"
+  ],
+  "logo": "/images/logos/梯子云256x256.png"
+}

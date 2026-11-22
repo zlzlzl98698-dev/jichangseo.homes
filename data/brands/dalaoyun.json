@@ -1,0 +1,82 @@
+{
+  "id": "brand-05",
+  "name": "大佬云",
+  "aliases": [
+    "dalaoyun"
+  ],
+  "slug": "dalaoyun",
+  "rank": 5,
+  "tagline": "5.6元超低价大碗饭，适合备用与刷网页",
+  "foundedAt": "2023",
+  "officialUrl": "https://qwerty.dalaoyunaff.com/#/?code=jCPLmoWN",
+  "affiliateUrl": "https://qwerty.dalaoyunaff.com/#/?code=jCPLmoWN",
+  "coupon": "dly888",
+  "minPriceMonthly": 5.6,
+  "minPriceNote": "低至 ¥5.6/月，60GB/月",
+  "protocols": [
+    "Trojan",
+    "Shadowsocks"
+  ],
+  "networkTypes": [
+    "公网隧道",
+    "BGP优化"
+  ],
+  "nodeRegions": [
+    "香港",
+    "日本",
+    "新加坡",
+    "美国"
+  ],
+  "nodeCount": "30+",
+  "clients": [
+    "Clash Verge Rev",
+    "v2rayN",
+    "Shadowrocket"
+  ],
+  "aiSupport": {
+    "chatgpt": "部分节点支持",
+    "claude": "受限",
+    "gemini": "受限",
+    "notes": "便宜梯子IP纯净度有限，AI需挑节点"
+  },
+  "streamingSupport": {
+    "netflix": "部分解锁",
+    "disney": "部分解锁",
+    "youtube": "1080P/4K",
+    "tiktok": "受限",
+    "notes": "常规油管网页无压力"
+  },
+  "benchmarkResults": {
+    "testedAt": "2026待实测",
+    "latency": "香港 ~65ms",
+    "downloadSpeed": "~150Mbps",
+    "packetLoss": "1%",
+    "image": null,
+    "source": "厂商宣称",
+    "verified": false
+  },
+  "plans": [
+    {
+      "name": "经济版",
+      "price": 5.6,
+      "period": "月付",
+      "bandwidth": "60GB/月",
+      "notes": "月付无压力，买奶茶钱即可体验"
+    }
+  ],
+  "strengths": [
+    "价格极低，5.6元即可上车",
+    "支持月付，无长期被套风险"
+  ],
+  "limitations": [
+    "晚高峰带宽抢占明显",
+    "解锁能力较弱，不适合严肃AI工作"
+  ],
+  "suitableUsers": "轻量查资料、备用应急、低成本入门用户",
+  "riskNotes": "低价机场利润薄，防跑路原则：建议始终月付",
+  "dataStatus": "厂商宣称",
+  "sources": [
+    "品牌资料"
+  ],
+  "logo": "/images/logos/galaxy_transparent_square.webp"
+}

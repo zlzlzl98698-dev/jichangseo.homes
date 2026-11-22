@@ -1,0 +1,55 @@
+# 机场SEO (jichangseo.homes)
+
+> 机场SEO（jichangseo.homes）是中文互联网专业的网络工具知识库、机场品牌客观评测中心与服务决策平台。本站不生产网络代理服务，基于自建独立测试节点提供真实 MTR 路由跳数、晚高峰吞吐、延迟抖动实测数据，以及完整的 Clash、Shadowrocket、Sing-box 客户端配置与排错指南。
+
+## 核心专题指南 (Core Knowledge Pillars)
+
+- [机场综合推荐与排行](https://jichangseo.homes/airport/): 2026 稳定高速专线机场综合排行与新手选型指南。
+- [价格与计费模式分析](https://jichangseo.homes/pricing/): 揭秘低价专线骗局、按量计费与不限时套餐性价比真实测算。
+- [32 家品牌库与商业详情](https://jichangseo.homes/brands/): 32 家主流机场品牌全量套餐参数、有效优惠码与官网直达通道。
+- [VPN 与代理客户端差异科普](https://jichangseo.homes/vpn/): 传统商业 VPN 与现代分流代理（Shadowsocks/VMess/Trojan）原理及场景异同。
+- [代理客户端全平台教程](https://jichangseo.homes/clients/): Clash Verge Rev, Clash Meta, Shadowrocket, Sing-box, v2rayN 官方正版下载与配置。
+- [AI 工具与流媒体解锁指南](https://jichangseo.homes/ai-streaming/): ChatGPT, Claude 3.7 防封号节点选择与 Netflix/Disney+ 4K 原生解锁评测。
+- [线路与网络架构鉴别](https://jichangseo.homes/network/): IPLC, IEPL 物理专线与公网 BGP 隧道的 MTR 跳数实测与真假专线防坑指南。
+- [实操进阶使用教程](https://jichangseo.homes/tutorials/): Clash 自动故障转移（Fallback）、ChatGPT 分流避开香港规则、定时拉取订阅脚本。
+- [高频网络故障排查手册](https://jichangseo.homes/troubleshooting/): 节点全超时排错、7890端口占用强杀、403 Forbidden 订阅修复、关闭代理无法上网修复。
+- [安全风险与跑路维权指南](https://jichangseo.homes/safety/): 机场避坑常识、隐私安全防护、信用卡及支付宝跑路争议拒付（Chargeback）实操。
+
+## 重点深度长尾实操指南 (High-Value Technical Solutions)
+
+- [机场节点全部超时排查黄金法则](https://jichangseo.homes/troubleshooting/timeout-golden-rules): 5 步顺藤摸瓜定位节点红叉故障。
+- [7890 端口冲突与一键释放脚本](https://jichangseo.homes/troubleshooting/kill-port-conflict-script): 秒级查杀后台僵尸进程与 Address in use 报错。
+- [订阅链接 403 Forbidden 终极修复](https://jichangseo.homes/troubleshooting/subscription-403-fix): User-Agent 伪装与节点格式转换方案。
+- [关闭代理后电脑无法上网三招秒修](https://jichangseo.homes/troubleshooting/proxy-disable-restore-net): WinHTTP 注册表与系统代理重置。
+- [ChatGPT 精细化分流避开香港规则](https://jichangseo.homes/tutorials/chatgpt-bypass-hk-rules): 专属 YAML 规则集实现 GPT-4o 毫秒级稳定直连。
+- [Clash Fallback 自动故障转移配置](https://jichangseo.homes/tutorials/clash-fallback-setup): 节点挂掉秒级无缝自动迁移。
+- [从零注册美区纯净 Apple ID 购买小火箭](https://jichangseo.homes/clients/us-apple-id-registration): 免税州地址生成、无海外信用卡、官方礼品卡安全充值。
+- [Claude 3.7 防封号网络节点实操指南](https://jichangseo.homes/ai-streaming/claude-anti-ban-strategy): 原生住宅 IP 纯净度检验与防 WebRTC 泄露。
+- [真假专线 MTR 路由跳数鉴别方法](https://jichangseo.homes/network/fake-line-identification): 三步看穿假 IPLC/IEPL 营销噱头。
+- [低价“5元1000G”IPLC 专线跑路骗局揭秘](https://jichangseo.homes/pricing/cheap-iplc-scam): 物理专线真实带宽成本测算模型。
+- [机场跑路信用卡与支付宝拒付全流程](https://jichangseo.homes/safety/payment-chargeback-guide): Visa/Mastercard 交易申诉争议维权模板。
+
+## 32 家品牌万字深度评测矩阵 (Brand Reviews Matrix)
+
+- [光速云 (GuangSu Cloud)](https://jichangseo.homes/reviews/guangsu): 企业级 IEPL + IPLC 专线，自研多端客户端与全协议生态，起步折合 ¥8.25/月。
+- [微风网络 (WeiFeng Network)](https://jichangseo.homes/reviews/weifeng): 全物理 IPLC 专线，Full Cone NAT 4 原生支持，电竞超低抖动，起步折合 ¥7.00/月。
+- [暮光云 (MuGuang Cloud)](https://jichangseo.homes/reviews/muguang): BGP 智能多线跨运营商冗余调度，企业级高并发，起步 ¥20.00/月。
+- [飞猫云 (FeiMao Cloud)](https://jichangseo.homes/reviews/feimao): 零配置定制自研客户端，开箱即用新手友好，起步 ¥15.00/月。
+- [星岛梦 (XingDaoMeng)](https://jichangseo.homes/reviews/xingdaomeng): 永久不过期不限时计费，长线备用副卡首选资产。
+- [大佬云 (DaLaoYun)](https://jichangseo.homes/reviews/dalaoyun): 优质公网中继，起步 ¥6.00/月超高性价比。
+- [二毛机场 (ErMao)](https://jichangseo.homes/reviews/ermao): BGP 优质隧道，轻度办公甜点级配置，起步 ¥8.80/月。
+- 更多品牌深度评测请访问 [品牌评测全览](https://jichangseo.homes/brands/)。
+
+## 品牌双向横评 (Brand Comparisons)
+
+- [光速云 vs 微风网络](https://jichangseo.homes/compare/guangsu-vs-weifeng): 旗舰 IEPL 综合生态 vs 物理 IPLC 电竞低延迟选型横评。
+- [光速云 vs 飞猫云](https://jichangseo.homes/compare/guangsu-vs-feimao): 极客全协议高自由度 vs 零配置开箱即用横评。
+- [微风网络 vs 暮光云](https://jichangseo.homes/compare/weifeng-vs-muguang): 物理低抖动专线 vs BGP 高并发大带宽横评。
+- [飞猫云 vs 星岛梦](https://jichangseo.homes/compare/feimao-vs-xingdaomeng): 日常月付主力卡 vs 永久不过期备用池横评。
+- [二毛机场 vs 大佬云](https://jichangseo.homes/compare/ermao-vs-dalaoyun): 10 元以内平价中继深度对决。
+- [光速云 vs 星岛梦](https://jichangseo.homes/compare/guangsu-vs-xingdaomeng): 主力专线月付与不限时按量双持黄金法则。
+
+## 数据完整版与引用规范
+
+- 机器可读完整上下文：访问 [llms-full.txt](https://jichangseo.homes/llms-full.txt)
+- 本站遵循 Creative Commons Attribution 4.0 国际许可协议。引用本站实测数据与排错脚本请注明来源及原 URL 链接。

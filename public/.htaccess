@@ -1,0 +1,72 @@
+# =========================================================
+# 机场SEO (jichangseo.homes) Apache 生产静态部署配置文件
+# 规范：强制 HTTPS / cleanUrls 重写 / 301 规范化 / 静态长缓存 / 独立直接访问
+# =========================================================
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteBase /
+
+  # 1. 强制 HTTPS 传输安全
+  RewriteCond %{HTTPS} !=on
+  RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+  # 2. 规范化：去除 www 前缀（统一为 jichangseo.homes 裸域）
+  RewriteCond %{HTTP_HOST} ^www\.(.+)$ [NC]
+  RewriteRule ^ https://%1%{REQUEST_URI} [R=301,L]
+
+  # 3. 处理已包含 .html 的旧链接重写为 cleanUrls 301
+  RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s([^.]+)\.html [NC]
+  RewriteRule ^ %1 [R=301,L]
+
+  # 4. 针对实存目录和实存文件直接放行（支持 robots.txt, sitemap.xml, pagefind 等）
+  RewriteCond %{REQUEST_FILENAME} -f [OR]
+  RewriteCond %{REQUEST_FILENAME} -d
+  RewriteRule ^ - [L]
+
+  # 5. cleanUrls 路由：如果存在对应 .html 文件，直接透明加载该静态文件
+  RewriteCond %{DOCUMENT_ROOT}/$1.html -f
+  RewriteRule ^(.*)/?$ $1.html [L]
+
+  # 6. 目录 index.html 路由
+  RewriteCond %{DOCUMENT_ROOT}/$1/index.html -f
+  RewriteRule ^(.*)/?$ $1/index.html [L]
+
+</IfModule>
+
+# 7. 自定义 404 错误页
+ErrorDocument 404 /404.html
+
+# 8. 静态资源长效缓存优化（浏览器缓存 1 年）
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresDefault "access plus 1 month"
+
+  # 图片与字体长期缓存
+  ExpiresByType image/jpeg "access plus 1 year"
+  ExpiresByType image/png "access plus 1 year"
+  ExpiresByType image/webp "access plus 1 year"
+  ExpiresByType image/svg+xml "access plus 1 year"
+  ExpiresByType font/woff2 "access plus 1 year"
+
+  # CSS 与 JS 缓存 1 个月
+  ExpiresByType text/css "access plus 1 month"
+  ExpiresByType application/javascript "access plus 1 month"
+
+  # HTML 与 XML 实时更新
+  ExpiresByType text/html "access plus 0 seconds"
+  ExpiresByType application/xml "access plus 0 seconds"
+  ExpiresByType text/xml "access plus 0 seconds"
+</IfModule>
+
+# 9. Gzip / Deflate 静态压缩加速
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/plain text/xml text/css application/javascript application/json application/xml
+</IfModule>
+
+# 10. 安全响应头
+<IfModule mod_headers.c>
+  Header always set X-Content-Type-Options "nosniff"
+  Header always set X-Frame-Options "SAMEORIGIN"
+  Header always set Referrer-Policy "strict-origin-when-cross-origin"
+</IfModule>

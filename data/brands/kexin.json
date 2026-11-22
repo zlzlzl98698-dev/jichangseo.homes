@@ -1,0 +1,82 @@
+{
+  "id": "brand-18",
+  "name": "可信云",
+  "aliases": [
+    "kexin",
+    "Kosing"
+  ],
+  "slug": "kexin",
+  "rank": 18,
+  "tagline": "诚实标注数据缺口，实测下行平稳，透明运营",
+  "foundedAt": "2023",
+  "officialUrl": "https://guangs.kosingaff.com/#/register?code=UYDtNlCY",
+  "affiliateUrl": "https://guangs.kosingaff.com/#/register?code=UYDtNlCY",
+  "coupon": "kkk333",
+  "minPriceMonthly": 16,
+  "minPriceNote": "月付 ¥16/100GB",
+  "protocols": [
+    "VLESS",
+    "Trojan"
+  ],
+  "networkTypes": [
+    "BGP优化"
+  ],
+  "nodeRegions": [
+    "香港",
+    "日本",
+    "新加坡",
+    "美国"
+  ],
+  "nodeCount": "30+",
+  "clients": [
+    "Clash Verge Rev",
+    "v2rayN",
+    "Shadowrocket"
+  ],
+  "aiSupport": {
+    "chatgpt": "支持",
+    "claude": "支持",
+    "gemini": "视节点",
+    "notes": "常用AI支持"
+  },
+  "streamingSupport": {
+    "netflix": "解锁",
+    "disney": "支持",
+    "youtube": "4K",
+    "tiktok": "支持",
+    "notes": "常规流媒体解锁"
+  },
+  "benchmarkResults": {
+    "testedAt": "2026-08-11",
+    "latency": "香港 38ms",
+    "downloadSpeed": "最高 55.4 MB/s",
+    "packetLoss": "0.1%",
+    "image": "/images/benchmarks/可信云-节点测速实测.png",
+    "source": "MAI-TEST-BOT 实测",
+    "verified": true
+  },
+  "plans": [
+    {
+      "name": "可信畅连版",
+      "price": 16,
+      "period": "月付",
+      "bandwidth": "100GB/月",
+      "notes": "透明真实"
+    }
+  ],
+  "strengths": [
+    "品牌资料诚恳，不夸大宣传",
+    "实测数据真实有效",
+    "月付价格亲民"
+  ],
+  "limitations": [
+    "节点规模相对中等"
+  ],
+  "suitableUsers": "喜欢透明运营、不喜套路的用户",
+  "riskNotes": "安全合规月付使用",
+  "dataStatus": "实测验证",
+  "sources": [
+    "MAI-TEST-BOT 实测"
+  ],
+  "logo": "/images/logos/galaxy_transparent_square.webp"
+}

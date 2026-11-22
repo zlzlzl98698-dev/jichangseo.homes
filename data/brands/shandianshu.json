@@ -1,0 +1,79 @@
+{
+  "id": "brand-22",
+  "name": "闪电鼠",
+  "aliases": [
+    "shandianshu"
+  ],
+  "slug": "shandianshu",
+  "rank": 22,
+  "tagline": "5.6元超低价大碗饭，学生党与轻量备用",
+  "foundedAt": "2023",
+  "officialUrl": "https://qwerty.shandianshuaff.com/#/?code=rUE75iYh",
+  "affiliateUrl": "https://qwerty.shandianshuaff.com/#/?code=rUE75iYh",
+  "coupon": "sd88",
+  "minPriceMonthly": 5.6,
+  "minPriceNote": "低至 ¥5.6/月，60GB/月",
+  "protocols": [
+    "Trojan",
+    "Shadowsocks"
+  ],
+  "networkTypes": [
+    "公网隧道",
+    "普通中转"
+  ],
+  "nodeRegions": [
+    "香港",
+    "日本",
+    "美国"
+  ],
+  "nodeCount": "25+",
+  "clients": [
+    "Clash Verge Rev",
+    "v2rayN",
+    "Shadowrocket"
+  ],
+  "aiSupport": {
+    "chatgpt": "受限",
+    "claude": "受限",
+    "gemini": "受限",
+    "notes": "便宜梯子IP受控严重"
+  },
+  "streamingSupport": {
+    "netflix": "部分解锁",
+    "disney": "受限",
+    "youtube": "1080P",
+    "tiktok": "受限",
+    "notes": "满足基础网页"
+  },
+  "benchmarkResults": {
+    "testedAt": "2026待实测",
+    "latency": "~70ms",
+    "downloadSpeed": "~100Mbps",
+    "packetLoss": "1.5%",
+    "image": null,
+    "source": "厂商宣称",
+    "verified": false
+  },
+  "plans": [
+    {
+      "name": "超值体验包",
+      "price": 5.6,
+      "period": "月付",
+      "bandwidth": "60GB/月",
+      "notes": "低价入门"
+    }
+  ],
+  "strengths": [
+    "价格超低，月付仅需一杯奶茶的三分之一"
+  ],
+  "limitations": [
+    "晚高峰易拥堵，无解锁保障"
+  ],
+  "suitableUsers": "轻度查资料备用",
+  "riskNotes": "建议仅月付，切勿年付",
+  "dataStatus": "厂商宣称",
+  "sources": [
+    "品牌清单"
+  ],
+  "logo": "/images/logos/galaxy_transparent_square.webp"
+}

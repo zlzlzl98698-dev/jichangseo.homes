@@ -1,0 +1,78 @@
+{
+  "id": "brand-26",
+  "name": "环球梯",
+  "aliases": [
+    "huanqiuti"
+  ],
+  "slug": "huanqiuti",
+  "rank": 26,
+  "tagline": "5.6元超低价节点，满足轻度出海应急",
+  "foundedAt": "2023",
+  "officialUrl": "https://qwerty.huanqiutiaff.com/?code=9I4KRNPH",
+  "affiliateUrl": "https://qwerty.huanqiutiaff.com/?code=9I4KRNPH",
+  "coupon": "HQ66",
+  "minPriceMonthly": 5.6,
+  "minPriceNote": "¥5.6/月 60GB",
+  "protocols": [
+    "Shadowsocks",
+    "Trojan"
+  ],
+  "networkTypes": [
+    "公网优化中转"
+  ],
+  "nodeRegions": [
+    "香港",
+    "日本",
+    "美国"
+  ],
+  "nodeCount": "22+",
+  "clients": [
+    "Clash Verge Rev",
+    "v2rayN",
+    "Shadowrocket"
+  ],
+  "aiSupport": {
+    "chatgpt": "受限",
+    "claude": "受限",
+    "gemini": "受限",
+    "notes": "基础访问"
+  },
+  "streamingSupport": {
+    "netflix": "受限",
+    "disney": "受限",
+    "youtube": "1080P",
+    "tiktok": "受限",
+    "notes": "基础网页"
+  },
+  "benchmarkResults": {
+    "testedAt": "2026待实测",
+    "latency": "~75ms",
+    "downloadSpeed": "~100Mbps",
+    "packetLoss": "1.5%",
+    "image": null,
+    "source": "厂商宣称",
+    "verified": false
+  },
+  "plans": [
+    {
+      "name": "环球入门版",
+      "price": 5.6,
+      "period": "月付",
+      "bandwidth": "60GB/月",
+      "notes": "极低成本"
+    }
+  ],
+  "strengths": [
+    "价格极具诱惑力"
+  ],
+  "limitations": [
+    "晚高峰波动，无独立测速图"
+  ],
+  "suitableUsers": "临时备用应急",
+  "riskNotes": "务必月付",
+  "dataStatus": "厂商宣称",
+  "sources": [
+    "品牌清单"
+  ],
+  "logo": "/images/logos/galaxy_transparent_square.webp"
+}

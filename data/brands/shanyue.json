@@ -1,0 +1,84 @@
+{
+  "id": "brand-20",
+  "name": "闪跃",
+  "aliases": [
+    "shanyue",
+    "FlashLeap"
+  ],
+  "slug": "shanyue",
+  "rank": 20,
+  "tagline": "24元150GB专线进阶，全平台多端稳定流畅",
+  "foundedAt": "2023",
+  "officialUrl": "https://vip02.flashleapaff.com/#/?code=3lgzm9mm",
+  "affiliateUrl": "https://vip02.flashleapaff.com/#/?code=3lgzm9mm",
+  "coupon": "shanyue",
+  "minPriceMonthly": 24,
+  "minPriceNote": "月付 ¥24/150GB",
+  "protocols": [
+    "VLESS",
+    "Trojan"
+  ],
+  "networkTypes": [
+    "IPLC/IEPL混合专线"
+  ],
+  "nodeRegions": [
+    "香港",
+    "台湾",
+    "日本",
+    "新加坡",
+    "美国",
+    "英国"
+  ],
+  "nodeCount": "45+",
+  "clients": [
+    "Clash Verge Rev",
+    "v2rayN",
+    "Shadowrocket",
+    "Sing-box"
+  ],
+  "aiSupport": {
+    "chatgpt": "支持",
+    "claude": "支持",
+    "gemini": "视节点",
+    "notes": "专线直达保障低抖动"
+  },
+  "streamingSupport": {
+    "netflix": "全区解锁",
+    "disney": "支持",
+    "youtube": "4K极速",
+    "tiktok": "支持",
+    "notes": "流媒体解锁表现好"
+  },
+  "benchmarkResults": {
+    "testedAt": "2026-10-19",
+    "latency": "香港 28ms / 日本 54ms",
+    "downloadSpeed": "香港 480Mbps",
+    "packetLoss": "0.1%",
+    "image": null,
+    "source": "实测数据表记录",
+    "verified": true
+  },
+  "plans": [
+    {
+      "name": "闪跃进阶版",
+      "price": 24,
+      "period": "月付",
+      "bandwidth": "150GB/月",
+      "notes": "专线品质，大流量"
+    }
+  ],
+  "strengths": [
+    "专线延迟稳定，晚高峰抗波动好",
+    "流量充裕，满足高强度工作"
+  ],
+  "limitations": [
+    "月付起步价格在20元以上"
+  ],
+  "suitableUsers": "注重网络稳定性、不愿受晚高峰降速困扰的用户",
+  "riskNotes": "品质较好，月付体验为上",
+  "dataStatus": "实测验证",
+  "sources": [
+    "品牌数据表"
+  ],
+  "logo": "/images/logos/galaxy_transparent_square.webp"
+}

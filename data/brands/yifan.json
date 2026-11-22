@@ -1,0 +1,83 @@
+{
+  "id": "brand-16",
+  "name": "一翻云",
+  "aliases": [
+    "yifan",
+    "1fly"
+  ],
+  "slug": "yifan",
+  "rank": 16,
+  "tagline": "20元150GB高性价比，快速流媒体与高下行实测",
+  "foundedAt": "2022",
+  "officialUrl": "https://guangs.1flyunaff.cc/#/register?code=Yr7FhB7r",
+  "affiliateUrl": "https://guangs.1flyunaff.cc/#/register?code=Yr7FhB7r",
+  "coupon": "yfy6666",
+  "minPriceMonthly": 20,
+  "minPriceNote": "月付 ¥20/150GB",
+  "protocols": [
+    "VLESS",
+    "Trojan"
+  ],
+  "networkTypes": [
+    "BGP跨境隧道"
+  ],
+  "nodeRegions": [
+    "香港",
+    "台湾",
+    "日本",
+    "新加坡",
+    "美国"
+  ],
+  "nodeCount": "40+",
+  "clients": [
+    "Clash Verge Rev",
+    "v2rayN",
+    "Shadowrocket"
+  ],
+  "aiSupport": {
+    "chatgpt": "支持",
+    "claude": "支持",
+    "gemini": "支持",
+    "notes": "AI使用体验良好"
+  },
+  "streamingSupport": {
+    "netflix": "全区解锁",
+    "disney": "支持",
+    "youtube": "4K极速",
+    "tiktok": "支持",
+    "notes": "流媒体解锁优秀"
+  },
+  "benchmarkResults": {
+    "testedAt": "2026-08-12",
+    "latency": "香港 39ms",
+    "downloadSpeed": "最高 67.2 MB/s",
+    "packetLoss": "0%",
+    "image": "/images/benchmarks/一翻云-节点测速实测.png",
+    "source": "MAI-TEST-BOT 实测",
+    "verified": true
+  },
+  "plans": [
+    {
+      "name": "畅想月付版",
+      "price": 20,
+      "period": "月付",
+      "bandwidth": "150GB/月",
+      "notes": "大流量月付"
+    }
+  ],
+  "strengths": [
+    "20元档流量高达150GB",
+    "MAI-TEST-BOT 实测超过 530Mbps",
+    "优惠码可用"
+  ],
+  "limitations": [
+    "海外节点覆盖范围较局限在亚太与北美"
+  ],
+  "suitableUsers": "对流量要求较高的视频党和社媒运营者",
+  "riskNotes": "按月续费更为保险",
+  "dataStatus": "实测验证",
+  "sources": [
+    "MAI-TEST-BOT 实测"
+  ],
+  "logo": "/images/logos/1fly_logo.webp"
+}

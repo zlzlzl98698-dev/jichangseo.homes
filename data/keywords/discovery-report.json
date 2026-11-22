@@ -1,0 +1,53 @@
+{
+  "timestamp": "2026-11-21T14:33:45.423Z",
+  "totalMonitoredKeywords": 25,
+  "newOpportunities": [
+    {
+      "keyword": "光速云邀请码在哪看",
+      "intent": "Informational",
+      "topic": "brands",
+      "priority": "P1",
+      "targetUrl": "/reviews/guangsu"
+    },
+    {
+      "keyword": "2026好用的外贸梯子推荐",
+      "intent": "Commercial",
+      "topic": "airport",
+      "priority": "P0",
+      "targetUrl": "/airport/"
+    },
+    {
+      "keyword": "Clash Verge Rev TUN 模式无网络",
+      "intent": "Informational",
+      "topic": "troubleshooting",
+      "priority": "P0",
+      "targetUrl": "/troubleshooting/no-internet"
+    },
+    {
+      "keyword": "ChatGPT 4o 为什么总是提示区域不支持",
+      "intent": "Informational",
+      "topic": "ai-streaming",
+      "priority": "P0",
+      "targetUrl": "/ai-streaming/chatgpt"
+    },
+    {
+      "keyword": "便宜专线机场月付10元以下",
+      "intent": "Commercial",
+      "topic": "pricing",
+      "priority": "P1",
+      "targetUrl": "/pricing/cheap"
+    }
+  ],
+  "contentGapsIdentified": 2,
+  "cannibalizationRisk": "None detected (Clean Mapping)",
+  "actionableTasks": [
+    {
+      "priority": "P0",
+      "task": "在 /ai-streaming/chatgpt 增补 GPT-4o 最新风控绕过说明"
+    },
+    {
+      "priority": "P1",
+      "task": "在 /reviews/guangsu 增加邀请码与优惠码激活常见疑难截图"
+    }
+  ]
+}

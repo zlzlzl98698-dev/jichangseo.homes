@@ -1,0 +1,97 @@
+{
+  "id": "brand-04",
+  "name": "微风网络",
+  "aliases": [
+    "weifeng",
+    "BreezeNet"
+  ],
+  "slug": "weifeng",
+  "rank": 4,
+  "tagline": "全IPLC专线架构，低延迟游戏与流媒体双优",
+  "foundedAt": "2022",
+  "officialUrl": "https://edp01.breezenetaff.com/#/?code=t3huofyI",
+  "affiliateUrl": "https://edp01.breezenetaff.com/#/?code=t3huofyI",
+  "coupon": "flat888",
+  "couponDiscount": "9折优惠",
+  "minPriceMonthly": 7,
+  "minPriceNote": "年付折合约 ¥7/月 (¥84/年 60GB/月)",
+  "protocols": [
+    "VLESS",
+    "Shadowsocks"
+  ],
+  "networkTypes": [
+    "全IPLC专线",
+    "内网跨境隧道"
+  ],
+  "nodeRegions": [
+    "香港",
+    "台湾",
+    "日本",
+    "新加坡",
+    "美国",
+    "英国"
+  ],
+  "nodeCount": "45+",
+  "clients": [
+    "Clash Verge Rev",
+    "v2rayN",
+    "Shadowrocket",
+    "Sing-box",
+    "FlClash"
+  ],
+  "aiSupport": {
+    "chatgpt": "支持",
+    "claude": "支持",
+    "gemini": "支持",
+    "notes": "原生IP配置，AI工具访问通过率高"
+  },
+  "streamingSupport": {
+    "netflix": "全区解锁",
+    "disney": "全区解锁",
+    "youtube": "4K极速",
+    "tiktok": "支持",
+    "notes": "专线直连，晚高峰看4K不转圈"
+  },
+  "benchmarkResults": {
+    "testedAt": "2026-07-20",
+    "latency": "香港 32ms / 台湾 45ms / 日本 58ms",
+    "downloadSpeed": "平均 420Mbps",
+    "packetLoss": "0.1%",
+    "image": "/images/benchmarks/微风-节点测速实测.png",
+    "source": "MAI-TEST-BOT 实测",
+    "verified": true
+  },
+  "plans": [
+    {
+      "name": "微风·入门版",
+      "price": 84,
+      "period": "年付",
+      "bandwidth": "60GB/月",
+      "notes": "全IPLC专线入口"
+    },
+    {
+      "name": "微风·进阶版",
+      "price": 28,
+      "period": "月付",
+      "bandwidth": "180GB/月",
+      "notes": "多端同登，畅享4K"
+    }
+  ],
+  "strengths": [
+    "全IPLC专线无公网干扰",
+    "延迟极低，兼顾外服游戏加速",
+    "9折优惠码可用",
+    "MAI-TEST-BOT 实测验证"
+  ],
+  "limitations": [
+    "入门套餐仅限年付，月付门槛从28元起"
+  ],
+  "suitableUsers": "追求低延迟的外服联机玩家、经常看4K高码率视频的用户",
+  "riskNotes": "IPLC成本较高，特惠活动机位有限",
+  "dataStatus": "实测验证",
+  "sources": [
+    "实测报告",
+    "品牌数据表"
+  ],
+  "logo": "/images/logos/bee_logo.webp"
+}

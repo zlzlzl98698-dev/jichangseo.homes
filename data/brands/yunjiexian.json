@@ -1,0 +1,78 @@
+{
+  "id": "brand-23",
+  "name": "云界线",
+  "aliases": [
+    "yunjiexian"
+  ],
+  "slug": "yunjiexian",
+  "rank": 23,
+  "tagline": "5.6元极低价格档位，轻度查阅资料备选",
+  "foundedAt": "2023",
+  "officialUrl": "https://qwerty.yunjiexianaff.com/?code=aycnwNUi",
+  "affiliateUrl": "https://qwerty.yunjiexianaff.com/?code=aycnwNUi",
+  "coupon": "yjx888",
+  "minPriceMonthly": 5.6,
+  "minPriceNote": "¥5.6/月 60GB",
+  "protocols": [
+    "Trojan",
+    "Shadowsocks"
+  ],
+  "networkTypes": [
+    "公网中转"
+  ],
+  "nodeRegions": [
+    "香港",
+    "日本",
+    "美国"
+  ],
+  "nodeCount": "25+",
+  "clients": [
+    "Clash Verge Rev",
+    "v2rayN",
+    "Shadowrocket"
+  ],
+  "aiSupport": {
+    "chatgpt": "受限",
+    "claude": "受限",
+    "gemini": "受限",
+    "notes": "适合常规网页"
+  },
+  "streamingSupport": {
+    "netflix": "受限",
+    "disney": "受限",
+    "youtube": "1080P",
+    "tiktok": "受限",
+    "notes": "网页视频"
+  },
+  "benchmarkResults": {
+    "testedAt": "2026待实测",
+    "latency": "~75ms",
+    "downloadSpeed": "~120Mbps",
+    "packetLoss": "1%",
+    "image": null,
+    "source": "厂商宣称",
+    "verified": false
+  },
+  "plans": [
+    {
+      "name": "微量月付包",
+      "price": 5.6,
+      "period": "月付",
+      "bandwidth": "60GB/月",
+      "notes": "基础查阅"
+    }
+  ],
+  "strengths": [
+    "低廉上车门槛，月付无压力"
+  ],
+  "limitations": [
+    "链接格式特殊，技术实力一般"
+  ],
+  "suitableUsers": "预算极低的用户",
+  "riskNotes": "月付保平安",
+  "dataStatus": "厂商宣称",
+  "sources": [
+    "品牌清单"
+  ],
+  "logo": "/images/logos/galaxy_transparent_square.webp"
+}

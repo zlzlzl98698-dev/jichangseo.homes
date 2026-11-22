@@ -1,0 +1,83 @@
+{
+  "id": "brand-19",
+  "name": "速界",
+  "aliases": [
+    "sujie",
+    "SpeedWorld"
+  ],
+  "slug": "sujie",
+  "rank": 19,
+  "tagline": "重点优化AI生产力工具，低延迟稳定外联",
+  "foundedAt": "2023",
+  "officialUrl": "https://guangs.speedworldaff.cc/#/register?code=xgXzEfZB",
+  "affiliateUrl": "https://guangs.speedworldaff.cc/#/register?code=xgXzEfZB",
+  "coupon": "sss1111",
+  "minPriceMonthly": 18,
+  "minPriceNote": "月付 ¥18/100GB",
+  "protocols": [
+    "VLESS",
+    "Trojan"
+  ],
+  "networkTypes": [
+    "BGP跨境专线"
+  ],
+  "nodeRegions": [
+    "香港",
+    "台湾",
+    "日本",
+    "新加坡",
+    "美国"
+  ],
+  "nodeCount": "36+",
+  "clients": [
+    "Clash Verge Rev",
+    "v2rayN",
+    "Shadowrocket"
+  ],
+  "aiSupport": {
+    "chatgpt": "全支持",
+    "claude": "全支持",
+    "gemini": "支持",
+    "notes": "专门做AI域名分流规则"
+  },
+  "streamingSupport": {
+    "netflix": "支持",
+    "disney": "支持",
+    "youtube": "4K",
+    "tiktok": "支持",
+    "notes": "流媒体稳定"
+  },
+  "benchmarkResults": {
+    "testedAt": "2026-08-11",
+    "latency": "香港 35ms",
+    "downloadSpeed": "最高 61.2 MB/s",
+    "packetLoss": "0%",
+    "image": "/images/benchmarks/速界-节点测速实测.png",
+    "source": "MAI-TEST-BOT 实测",
+    "verified": true
+  },
+  "plans": [
+    {
+      "name": "速界智能版",
+      "price": 18,
+      "period": "月付",
+      "bandwidth": "100GB/月",
+      "notes": "AI专项优化"
+    }
+  ],
+  "strengths": [
+    "针对AI工具定制分流策略",
+    "实测速度超过 480Mbps",
+    "优惠码可用"
+  ],
+  "limitations": [
+    "促销活动相对较少"
+  ],
+  "suitableUsers": "AI辅助创作者、开发者与外贸工作者",
+  "riskNotes": "月付为主，保障权益",
+  "dataStatus": "实测验证",
+  "sources": [
+    "MAI-TEST-BOT 实测"
+  ],
+  "logo": "/images/logos/sujie_logo.webp"
+}

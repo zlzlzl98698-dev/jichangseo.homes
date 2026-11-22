@@ -1,0 +1,84 @@
+{
+  "id": "brand-21",
+  "name": "全球云",
+  "aliases": [
+    "quanqiu",
+    "GlobalCloud"
+  ],
+  "slug": "quanqiu",
+  "rank": 21,
+  "tagline": "2026新品牌，实测超600Mbps下行，大带宽新秀",
+  "foundedAt": "2026",
+  "officialUrl": "https://guangs.gcvipaff.com/#/?code=Ov2nvU9C",
+  "affiliateUrl": "https://guangs.gcvipaff.com/#/?code=Ov2nvU9C",
+  "coupon": "qq88",
+  "minPriceMonthly": 15,
+  "minPriceNote": "月付 ¥15起",
+  "protocols": [
+    "VLESS",
+    "Trojan"
+  ],
+  "networkTypes": [
+    "BGP优化直连",
+    "低负载集群"
+  ],
+  "nodeRegions": [
+    "香港",
+    "台湾",
+    "日本",
+    "新加坡",
+    "美国"
+  ],
+  "nodeCount": "35+",
+  "clients": [
+    "Clash Verge Rev",
+    "v2rayN",
+    "Shadowrocket"
+  ],
+  "aiSupport": {
+    "chatgpt": "支持",
+    "claude": "支持",
+    "gemini": "支持",
+    "notes": "新开节点无封禁记录"
+  },
+  "streamingSupport": {
+    "netflix": "全区解锁",
+    "disney": "支持",
+    "youtube": "4K/8K",
+    "tiktok": "支持",
+    "notes": "4K秒开不卡顿"
+  },
+  "benchmarkResults": {
+    "testedAt": "2026-08-11",
+    "latency": "香港 26ms",
+    "downloadSpeed": "最高 76.9 MB/s (约 615Mbps)",
+    "packetLoss": "0%",
+    "image": "/images/benchmarks/全球云-节点测速实测.png",
+    "source": "MAI-TEST-BOT 实测",
+    "verified": true
+  },
+  "plans": [
+    {
+      "name": "全球畅联版",
+      "price": 15,
+      "period": "月付",
+      "bandwidth": "100GB/月",
+      "notes": "大带宽极速尝鲜"
+    }
+  ],
+  "strengths": [
+    "实测超过 600Mbps，极速亮眼",
+    "新节点IP极为纯净",
+    "月付门槛低"
+  ],
+  "limitations": [
+    "2026新开，品牌沉淀时间尚短"
+  ],
+  "suitableUsers": "追求高带宽下载、尝试新专线的极客用户",
+  "riskNotes": "新品牌请坚持月付",
+  "dataStatus": "实测验证",
+  "sources": [
+    "MAI-TEST-BOT 实测"
+  ],
+  "logo": "/images/logos/全球云主图.png"
+}

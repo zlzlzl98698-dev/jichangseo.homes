@@ -1,0 +1,97 @@
+{
+  "id": "brand-03",
+  "name": "飞猫云",
+  "aliases": [
+    "feimao",
+    "FlyCat"
+  ],
+  "slug": "feimao",
+  "rank": 3,
+  "tagline": "专属客户端下载即用，7元档高性价比入门之选",
+  "foundedAt": "2023",
+  "officialUrl": "https://guangs.flycataff.com/#/?code=6uq0Xe9y",
+  "affiliateUrl": "https://guangs.flycataff.com/#/?code=6uq0Xe9y",
+  "coupon": "flycat888",
+  "couponDiscount": "专属8折",
+  "minPriceMonthly": 7,
+  "minPriceNote": "年付折合约 ¥7/月 (学生版 ¥84/年 50GB/月)",
+  "protocols": [
+    "VLESS",
+    "Trojan"
+  ],
+  "networkTypes": [
+    "BGP中转",
+    "亚太优化直连"
+  ],
+  "nodeRegions": [
+    "香港",
+    "台湾",
+    "日本",
+    "新加坡",
+    "美国",
+    "韩国"
+  ],
+  "nodeCount": "40+",
+  "clients": [
+    "飞猫专属客户端(免配置)",
+    "Clash Verge Rev",
+    "v2rayN",
+    "Shadowrocket"
+  ],
+  "aiSupport": {
+    "chatgpt": "支持",
+    "claude": "支持",
+    "gemini": "需选日本/美国节点",
+    "notes": "专属客户端内置分流，降低分流配置复杂度"
+  },
+  "streamingSupport": {
+    "netflix": "多数节点解锁",
+    "disney": "支持",
+    "youtube": "4K流畅",
+    "tiktok": "支持",
+    "notes": "亚太热门节点流媒体解锁完整"
+  },
+  "benchmarkResults": {
+    "testedAt": "2026-08-11",
+    "latency": "香港 38ms / 日本 65ms / 新加坡 52ms",
+    "downloadSpeed": "最高 86.5 MB/s (约 692Mbps)",
+    "packetLoss": "0%",
+    "image": "/images/benchmarks/飞猫云-节点测速实测.png",
+    "source": "MAI-TEST-BOT 2.0.0-dev 实测截图",
+    "verified": true
+  },
+  "plans": [
+    {
+      "name": "飞猫·学生版",
+      "price": 84,
+      "period": "年付",
+      "bandwidth": "50GB/月",
+      "notes": "折合约 ¥7/月，学生及轻度用户首选"
+    },
+    {
+      "name": "飞猫·星耀版",
+      "price": 25,
+      "period": "月付",
+      "bandwidth": "150GB/月",
+      "notes": "月付无压力，全节点解锁"
+    }
+  ],
+  "strengths": [
+    "零门槛专属客户端，小白下载登录即用",
+    "年付折合仅7元/月，门槛极低",
+    "8折优惠码长效可用",
+    "MAI-TEST-BOT实测最高达 86.5 MB/s"
+  ],
+  "limitations": [
+    "低价套餐月流量50GB适合轻量使用，大下载易耗尽",
+    "晚高峰个别直连节点有排队延迟"
+  ],
+  "suitableUsers": "预算有限的学生党、初次接触网络加速的小白、追求免去复杂订阅导入步骤的用户",
+  "riskNotes": "超低价年付请注意按月重置规则，不累积次月",
+  "dataStatus": "实测验证",
+  "sources": [
+    "MAI-TEST-BOT 实测",
+    "官方套餐表"
+  ],
+  "logo": "/images/logos/飞猫云主图.png"
+}

@@ -1,0 +1,84 @@
+{
+  "id": "brand-27",
+  "name": "隐形人",
+  "aliases": [
+    "yinxingren",
+    "Invisible"
+  ],
+  "slug": "yinxingren",
+  "rank": 27,
+  "tagline": "自研全平台客户端，60+节点清单，官方宣称1小时故障修复承诺",
+  "foundedAt": "2024",
+  "officialUrl": "https://yinxingren1.invisibleaff.com/#/?code=kcyEeoJT",
+  "affiliateUrl": "https://yinxingren1.invisibleaff.com/#/?code=kcyEeoJT",
+  "coupon": "yxr888",
+  "minPriceMonthly": 25,
+  "minPriceNote": "月付 ¥25起",
+  "protocols": [
+    "专有加密协议",
+    "VLESS"
+  ],
+  "networkTypes": [
+    "IEPL专线集群",
+    "多入口BGP"
+  ],
+  "nodeRegions": [
+    "香港×15",
+    "台湾×8",
+    "日本×12",
+    "新加坡×10",
+    "美国×12",
+    "英国",
+    "德国"
+  ],
+  "nodeCount": "60+",
+  "clients": [
+    "隐形人自研专属客户端(Windows/macOS/Android/iOS)"
+  ],
+  "aiSupport": {
+    "chatgpt": "品牌资料称完美支持",
+    "claude": "支持",
+    "gemini": "支持",
+    "notes": "品牌宣称原生IP覆盖，AI支持优秀"
+  },
+  "streamingSupport": {
+    "netflix": "全区解锁",
+    "disney": "全区解锁",
+    "youtube": "4K极速",
+    "tiktok": "支持",
+    "notes": "流媒体解锁表现强劲"
+  },
+  "benchmarkResults": {
+    "testedAt": "2026厂商宣称",
+    "latency": "香港 ~30ms",
+    "downloadSpeed": "2Gbps独立带宽承诺",
+    "packetLoss": "0%",
+    "image": null,
+    "source": "官方宣称数据",
+    "verified": false
+  },
+  "plans": [
+    {
+      "name": "隐形人基础版",
+      "price": 25,
+      "period": "月付",
+      "bandwidth": "150GB/月",
+      "notes": "自研客户端，一键连接"
+    }
+  ],
+  "strengths": [
+    "官方宣称1小时内线路故障修复承诺",
+    "全平台自研客户端，小白一键安装",
+    "60+详细节点公布"
+  ],
+  "limitations": [
+    "不提供第三方通用客户端订阅链接，只能使用官方APP"
+  ],
+  "suitableUsers": "完全不想折腾Clash配置的小白、追求官方售后保障的用户",
+  "riskNotes": "厂商宣称完美解锁与快速修复，需实际持续验证；仅支持官方客户端",
+  "dataStatus": "厂商宣称",
+  "sources": [
+    "品牌资料公布清单"
+  ],
+  "logo": "/images/logos/隐形人256x256.png"
+}

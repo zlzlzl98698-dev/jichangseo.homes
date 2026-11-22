@@ -1,0 +1,85 @@
+{
+  "id": "brand-08",
+  "name": "无忧链接",
+  "aliases": [
+    "wuyou",
+    "WorryFree"
+  ],
+  "slug": "wuyou",
+  "rank": 8,
+  "tagline": "订阅无需转换，6元轻量起步，多协议全兼容",
+  "foundedAt": "2023",
+  "officialUrl": "https://wep01.worryfreeaff.com/#/?code=4ZoSbLdL",
+  "affiliateUrl": "https://wep01.worryfreeaff.com/#/?code=4ZoSbLdL",
+  "coupon": "wuyou666",
+  "minPriceMonthly": 6,
+  "minPriceNote": "轻量版 ¥6/月 起",
+  "protocols": [
+    "VLESS",
+    "VMess",
+    "Trojan",
+    "Shadowsocks"
+  ],
+  "networkTypes": [
+    "智能多线调度",
+    "专线混编"
+  ],
+  "nodeRegions": [
+    "香港",
+    "台湾",
+    "日本",
+    "新加坡",
+    "美国"
+  ],
+  "nodeCount": "40+",
+  "clients": [
+    "所有兼容客户端(订阅自适应，无需第三方转换转换)"
+  ],
+  "aiSupport": {
+    "chatgpt": "支持",
+    "claude": "支持",
+    "gemini": "视节点",
+    "notes": "无需转换订阅格式即可直接导入各大客户端"
+  },
+  "streamingSupport": {
+    "netflix": "全区解锁",
+    "disney": "支持",
+    "youtube": "4K极速",
+    "tiktok": "支持",
+    "notes": "流媒体解锁完整"
+  },
+  "benchmarkResults": {
+    "testedAt": "2026-09-07",
+    "latency": "香港 36ms",
+    "downloadSpeed": "~380Mbps",
+    "packetLoss": "0%",
+    "image": "/images/benchmarks/无忧链接.jpg",
+    "source": "实测整理资料",
+    "verified": true
+  },
+  "plans": [
+    {
+      "name": "无忧·轻量套餐",
+      "price": 6,
+      "period": "月付",
+      "bandwidth": "50GB/月",
+      "notes": "原生自适应订阅"
+    }
+  ],
+  "strengths": [
+    "智能订阅转换后端，免除配置繁琐",
+    "6元月付起步极具性价比",
+    "实测图有据可查"
+  ],
+  "limitations": [
+    "高峰期客服响应稍慢"
+  ],
+  "suitableUsers": "对订阅转换感到头疼的跨客户端用户、多平台折腾党",
+  "riskNotes": "轻量套餐适合日常刷网页",
+  "dataStatus": "实测验证",
+  "sources": [
+    "实测资料包",
+    "官方说明"
+  ],
+  "logo": "/images/logos/galaxy_transparent_square.webp"
+}

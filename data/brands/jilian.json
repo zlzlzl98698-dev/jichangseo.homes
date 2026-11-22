@@ -1,0 +1,83 @@
+{
+  "id": "brand-14",
+  "name": "极连云",
+  "aliases": [
+    "jilian"
+  ],
+  "slug": "jilian",
+  "rank": 14,
+  "tagline": "18元100GB起步，官方宣称全线覆盖主流AI生产力",
+  "foundedAt": "2023",
+  "officialUrl": "https://guangs.jlyvipaff.com/#/?code=VM1rKGUu",
+  "affiliateUrl": "https://guangs.jlyvipaff.com/#/?code=VM1rKGUu",
+  "coupon": "ji8888",
+  "minPriceMonthly": 18,
+  "minPriceNote": "月付 ¥18/100GB",
+  "protocols": [
+    "VLESS",
+    "Trojan"
+  ],
+  "networkTypes": [
+    "BGP隧道",
+    "AI优化专线"
+  ],
+  "nodeRegions": [
+    "香港",
+    "台湾",
+    "日本",
+    "新加坡",
+    "美国"
+  ],
+  "nodeCount": "38+",
+  "clients": [
+    "Clash Verge Rev",
+    "v2rayN",
+    "Shadowrocket"
+  ],
+  "aiSupport": {
+    "chatgpt": "全支持",
+    "claude": "全支持",
+    "gemini": "视节点",
+    "notes": "主打AI工具无缝访问"
+  },
+  "streamingSupport": {
+    "netflix": "支持",
+    "disney": "支持",
+    "youtube": "4K",
+    "tiktok": "支持",
+    "notes": "常规流媒体支持"
+  },
+  "benchmarkResults": {
+    "testedAt": "2026-08-12",
+    "latency": "香港 37ms",
+    "downloadSpeed": "最高 60.5 MB/s",
+    "packetLoss": "0.1%",
+    "image": "/images/benchmarks/极连云-节点测速实测.png",
+    "source": "MAI-TEST-BOT 实测",
+    "verified": true
+  },
+  "plans": [
+    {
+      "name": "极连基础版",
+      "price": 18,
+      "period": "月付",
+      "bandwidth": "100GB/月",
+      "notes": "AI访问优化"
+    }
+  ],
+  "strengths": [
+    "官方宣称重点维护AI生产力环境",
+    "MAI-TEST-BOT 实测速度良好",
+    "优惠码可用"
+  ],
+  "limitations": [
+    "晚高峰个别节点出现排队现象"
+  ],
+  "suitableUsers": "轻办公、外贸沟通及AI辅助工作者",
+  "riskNotes": "月付测试为宜",
+  "dataStatus": "实测验证",
+  "sources": [
+    "MAI-TEST-BOT 实测"
+  ],
+  "logo": "/images/logos/极连云主图.png"
+}

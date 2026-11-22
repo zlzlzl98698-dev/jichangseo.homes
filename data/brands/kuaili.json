@@ -1,0 +1,84 @@
+{
+  "id": "brand-32",
+  "name": "快狸",
+  "aliases": [
+    "kuaili",
+    "KuaiLiCloud"
+  ],
+  "slug": "kuaili",
+  "rank": 32,
+  "tagline": "MAI-TEST-BOT 实测验证，高下行带宽大流量备选",
+  "foundedAt": "2023",
+  "officialUrl": "https://work.kuailicloud.cc",
+  "affiliateUrl": "https://work.kuailicloud.cc",
+  "coupon": "kuaili888",
+  "minPriceMonthly": 18,
+  "minPriceNote": "月付 ¥18起",
+  "protocols": [
+    "VLESS",
+    "Trojan"
+  ],
+  "networkTypes": [
+    "BGP优化专线"
+  ],
+  "nodeRegions": [
+    "香港",
+    "台湾",
+    "日本",
+    "新加坡",
+    "美国"
+  ],
+  "nodeCount": "35+",
+  "clients": [
+    "Clash Verge Rev",
+    "v2rayN",
+    "Shadowrocket"
+  ],
+  "aiSupport": {
+    "chatgpt": "支持",
+    "claude": "支持",
+    "gemini": "视节点",
+    "notes": "AI支持良好"
+  },
+  "streamingSupport": {
+    "netflix": "全区解锁",
+    "disney": "支持",
+    "youtube": "4K极速",
+    "tiktok": "支持",
+    "notes": "流媒体解锁表现亮眼"
+  },
+  "benchmarkResults": {
+    "testedAt": "2026-08-12",
+    "latency": "香港 36ms / 日本 58ms",
+    "downloadSpeed": "最高 69.8 MB/s (约 558Mbps)",
+    "packetLoss": "0%",
+    "image": "/images/benchmarks/快狸-节点测速实测.png",
+    "source": "MAI-TEST-BOT 2.0.0 实测",
+    "verified": true
+  },
+  "plans": [
+    {
+      "name": "快狸畅游版",
+      "price": 18,
+      "period": "月付",
+      "bandwidth": "120GB/月",
+      "notes": "MAI-TEST-BOT 实测验证"
+    }
+  ],
+  "strengths": [
+    "MAI-TEST-BOT 实测下行接近 560Mbps",
+    "节点延迟低，晚高峰抗波动好",
+    "Logo与测速图完整存在"
+  ],
+  "limitations": [
+    "官网入口偶尔需更新"
+  ],
+  "suitableUsers": "重视实测下行速率与流媒体播放的用户",
+  "riskNotes": "月付使用，定期更新订阅",
+  "dataStatus": "实测验证",
+  "sources": [
+    "MAI-TEST-BOT 实测包",
+    "24个站点前缀"
+  ],
+  "logo": "/images/logos/kuaili_logo.png"
+}

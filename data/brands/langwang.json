@@ -1,0 +1,83 @@
+{
+  "id": "brand-30",
+  "name": "浪网",
+  "aliases": [
+    "langwang",
+    "WaveNet"
+  ],
+  "slug": "langwang",
+  "rank": 30,
+  "tagline": "IPLC专线架构，原生IP与多档周期套餐",
+  "foundedAt": "2024",
+  "officialUrl": "https://varnexa.wavenetaff.com/#/?code=xwAM4tTd",
+  "affiliateUrl": "https://varnexa.wavenetaff.com/#/?code=xwAM4tTd",
+  "coupon": null,
+  "minPriceMonthly": 22,
+  "minPriceNote": "月付 ¥22/120GB",
+  "protocols": [
+    "VLESS",
+    "Trojan"
+  ],
+  "networkTypes": [
+    "IPLC专线",
+    "原生IP出口"
+  ],
+  "nodeRegions": [
+    "香港",
+    "台湾",
+    "日本",
+    "新加坡",
+    "美国"
+  ],
+  "nodeCount": "35+",
+  "clients": [
+    "Clash Verge Rev",
+    "v2rayN",
+    "Shadowrocket"
+  ],
+  "aiSupport": {
+    "chatgpt": "原生IP支持",
+    "claude": "支持",
+    "gemini": "支持",
+    "notes": "AI支持良好"
+  },
+  "streamingSupport": {
+    "netflix": "支持",
+    "disney": "支持",
+    "youtube": "4K",
+    "tiktok": "支持",
+    "notes": "流媒体兼容良好"
+  },
+  "benchmarkResults": {
+    "testedAt": "未提供逐地区测速",
+    "latency": "待核实",
+    "downloadSpeed": "待核实",
+    "packetLoss": "待核实",
+    "image": null,
+    "source": "暂无独立测速",
+    "verified": false
+  },
+  "plans": [
+    {
+      "name": "浪网标准包",
+      "price": 22,
+      "period": "月付",
+      "bandwidth": "120GB/月",
+      "notes": "IPLC专线"
+    }
+  ],
+  "strengths": [
+    "IPLC原生IP定位",
+    "套餐档位丰富"
+  ],
+  "limitations": [
+    "未提供逐地区测速数据，待实测验证"
+  ],
+  "suitableUsers": "对原生IP有一定需求的用户",
+  "riskNotes": "暂无近期独立测速，建议先月付体验",
+  "dataStatus": "待核实信息",
+  "sources": [
+    "历史品牌库记录"
+  ],
+  "logo": "/images/logos/galaxy_transparent_square.webp"
+}

@@ -1,0 +1,10 @@
+{
+  "scanDate": "2026-11-21",
+  "status": "Clean",
+  "conflictsDetected": 0,
+  "rulesEnforced": [
+    "同一搜索意图（如'便宜机场'）由 /pricing/cheap 唯一承接，不与 /airport/ 重叠",
+    "各品牌评测关键词统一映射至 /reviews/<slug>，品牌介绍映射至 /brands/<slug>，转化映射至 /go/<slug>",
+    "客户端下载词条统一由 /clients/<slug> 承接"
+  ]
+}

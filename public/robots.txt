@@ -1,0 +1,21 @@
+User-agent: Googlebot
+Allow: /
+Disallow: /go/
+
+User-agent: bingbot
+Allow: /
+Disallow: /go/
+
+User-agent: Baiduspider
+Allow: /
+Disallow: /go/
+
+User-agent: yisouspider
+Allow: /
+Disallow: /go/
+
+User-agent: *
+Allow: /
+Disallow: /go/
+
+Sitemap: https://jichangseo.homes/sitemap.xml

@@ -1,0 +1,202 @@
+[
+  {
+    "keyword": "机场推荐",
+    "searchIntent": "Commercial",
+    "targetUrl": "/airport/",
+    "priority": "P0",
+    "topicCluster": "airport",
+    "primaryOwner": "/airport/",
+    "conflictUrls": [],
+    "lastChecked": "2026-11-21"
+  },
+  {
+    "keyword": "机场排行",
+    "searchIntent": "Commercial",
+    "targetUrl": "/airport/rankings",
+    "priority": "P0",
+    "topicCluster": "airport",
+    "primaryOwner": "/airport/rankings",
+    "conflictUrls": [],
+    "lastChecked": "2026-11-21"
+  },
+  {
+    "keyword": "稳定机场",
+    "searchIntent": "Commercial",
+    "targetUrl": "/airport/stable",
+    "priority": "P0",
+    "topicCluster": "airport",
+    "primaryOwner": "/airport/stable",
+    "conflictUrls": [],
+    "lastChecked": "2026-11-21"
+  },
+  {
+    "keyword": "便宜机场",
+    "searchIntent": "Commercial",
+    "targetUrl": "/pricing/cheap",
+    "priority": "P0",
+    "topicCluster": "pricing",
+    "primaryOwner": "/pricing/cheap",
+    "conflictUrls": [],
+    "lastChecked": "2026-11-21"
+  },
+  {
+    "keyword": "一元机场",
+    "searchIntent": "Commercial",
+    "targetUrl": "/pricing/one-yuan",
+    "priority": "P0",
+    "topicCluster": "pricing",
+    "primaryOwner": "/pricing/one-yuan",
+    "conflictUrls": [],
+    "lastChecked": "2026-11-21"
+  },
+  {
+    "keyword": "月付机场",
+    "searchIntent": "Commercial",
+    "targetUrl": "/pricing/monthly",
+    "priority": "P0",
+    "topicCluster": "pricing",
+    "primaryOwner": "/pricing/monthly",
+    "conflictUrls": [],
+    "lastChecked": "2026-11-21"
+  },
+  {
+    "keyword": "不限时机场",
+    "searchIntent": "Commercial",
+    "targetUrl": "/pricing/no-expiry",
+    "priority": "P1",
+    "topicCluster": "pricing",
+    "primaryOwner": "/pricing/no-expiry",
+    "conflictUrls": [],
+    "lastChecked": "2026-11-21"
+  },
+  {
+    "keyword": "光速云评测",
+    "searchIntent": "Commercial",
+    "targetUrl": "/reviews/guangsu",
+    "priority": "P0",
+    "topicCluster": "reviews",
+    "primaryOwner": "/reviews/guangsu",
+    "conflictUrls": [],
+    "lastChecked": "2026-11-21"
+  },
+  {
+    "keyword": "VPN推荐",
+    "searchIntent": "Commercial",
+    "targetUrl": "/vpn/",
+    "priority": "P0",
+    "topicCluster": "vpn",
+    "primaryOwner": "/vpn/",
+    "conflictUrls": [],
+    "lastChecked": "2026-11-21"
+  },
+  {
+    "keyword": "Clash Verge Rev",
+    "searchIntent": "Informational",
+    "targetUrl": "/clients/clash-verge-rev",
+    "priority": "P0",
+    "topicCluster": "clients",
+    "primaryOwner": "/clients/clash-verge-rev",
+    "conflictUrls": [],
+    "lastChecked": "2026-11-21"
+  },
+  {
+    "keyword": "v2rayN",
+    "searchIntent": "Informational",
+    "targetUrl": "/clients/v2rayn",
+    "priority": "P0",
+    "topicCluster": "clients",
+    "primaryOwner": "/clients/v2rayn",
+    "conflictUrls": [],
+    "lastChecked": "2026-11-21"
+  },
+  {
+    "keyword": "Shadowrocket",
+    "searchIntent": "Informational",
+    "targetUrl": "/clients/shadowrocket",
+    "priority": "P0",
+    "topicCluster": "clients",
+    "primaryOwner": "/clients/shadowrocket",
+    "conflictUrls": [],
+    "lastChecked": "2026-11-21"
+  },
+  {
+    "keyword": "Sing-box",
+    "searchIntent": "Informational",
+    "targetUrl": "/clients/sing-box",
+    "priority": "P1",
+    "topicCluster": "clients",
+    "primaryOwner": "/clients/sing-box",
+    "conflictUrls": [],
+    "lastChecked": "2026-11-21"
+  },
+  {
+    "keyword": "ChatGPT机场推荐",
+    "searchIntent": "Commercial",
+    "targetUrl": "/ai-streaming/chatgpt",
+    "priority": "P0",
+    "topicCluster": "ai-streaming",
+    "primaryOwner": "/ai-streaming/chatgpt",
+    "conflictUrls": [],
+    "lastChecked": "2026-11-21"
+  },
+  {
+    "keyword": "Netflix解锁机场",
+    "searchIntent": "Commercial",
+    "targetUrl": "/ai-streaming/netflix",
+    "priority": "P1",
+    "topicCluster": "ai-streaming",
+    "primaryOwner": "/ai-streaming/netflix",
+    "conflictUrls": [],
+    "lastChecked": "2026-11-21"
+  },
+  {
+    "keyword": "IEPL专线",
+    "searchIntent": "Informational",
+    "targetUrl": "/network/iepl",
+    "priority": "P1",
+    "topicCluster": "network",
+    "primaryOwner": "/network/iepl",
+    "conflictUrls": [],
+    "lastChecked": "2026-11-21"
+  },
+  {
+    "keyword": "IPLC专线",
+    "searchIntent": "Informational",
+    "targetUrl": "/network/iplc",
+    "priority": "P1",
+    "topicCluster": "network",
+    "primaryOwner": "/network/iplc",
+    "conflictUrls": [],
+    "lastChecked": "2026-11-21"
+  },
+  {
+    "keyword": "机场订阅导入教程",
+    "searchIntent": "Informational",
+    "targetUrl": "/tutorials/import-subscription",
+    "priority": "P0",
+    "topicCluster": "tutorials",
+    "primaryOwner": "/tutorials/import-subscription",
+    "conflictUrls": [],
+    "lastChecked": "2026-11-21"
+  },
+  {
+    "keyword": "节点连接超时排查",
+    "searchIntent": "Informational",
+    "targetUrl": "/troubleshooting/timeout",
+    "priority": "P0",
+    "topicCluster": "troubleshooting",
+    "primaryOwner": "/troubleshooting/timeout",
+    "conflictUrls": [],
+    "lastChecked": "2026-11-21"
+  },
+  {
+    "keyword": "机场跑路预警",
+    "searchIntent": "Informational",
+    "targetUrl": "/safety/runaway",
+    "priority": "P1",
+    "topicCluster": "safety",
+    "primaryOwner": "/safety/runaway",
+    "conflictUrls": [],
+    "lastChecked": "2026-11-21"
+  }
+]

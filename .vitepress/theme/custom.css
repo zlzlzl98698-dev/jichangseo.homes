@@ -1,0 +1,361 @@
+/* =========================================================
+   机场SEO (jichangseo.homes) 品牌化简白主题定制 CSS
+   规范：纯白背景 / 极简沉稳 / 专业网络技术实验室风格
+   ========================================================= */
+
+:root {
+  --vp-c-brand-1: #2563eb;
+  --vp-c-brand-2: #1d4ed8;
+  --vp-c-brand-3: #1e40af;
+  --vp-c-brand-soft: #eff6ff;
+
+  --vp-c-bg: #ffffff;
+  --vp-c-bg-alt: #f8fafc;
+  --vp-c-bg-elv: #ffffff;
+  --vp-c-bg-soft: #f1f5f9;
+
+  --vp-c-text-1: #0f172a;
+  --vp-c-text-2: #334155;
+  --vp-c-text-3: #64748b;
+
+  --vp-c-border: #e2e8f0;
+  --vp-c-divider: #e2e8f0;
+  --vp-c-gutter: #e2e8f0;
+
+  --vp-font-family-base: -apple-system, BlinkMacSystemFont, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Segoe UI", Roboto, sans-serif;
+  --vp-font-family-mono: "JetBrains Mono", Consolas, Monaco, "Courier New", monospace;
+}
+
+/* 全站基础阅读排版 */
+html, body {
+  background-color: #ffffff;
+  color: #0f172a;
+  font-size: 16px;
+  line-height: 1.8;
+  -webkit-font-smoothing: antialiased;
+}
+
+.VPDoc {
+  font-size: 1.05rem;
+  line-height: 1.85;
+}
+
+.VPDoc h1 {
+  font-size: 2.1rem;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  color: #0f172a;
+  margin-top: 1.5rem;
+  margin-bottom: 1.2rem;
+  padding-bottom: 0.8rem;
+  border-bottom: 1px solid #e2e8f0;
+}
+
+.VPDoc h2 {
+  font-size: 1.55rem;
+  font-weight: 700;
+  color: #0f172a;
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid #f1f5f9;
+}
+
+.VPDoc h3 {
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: #1e293b;
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+}
+
+.VPDoc p {
+  margin: 1.1rem 0;
+  color: #334155;
+}
+
+.VPDoc ul, .VPDoc ol {
+  padding-left: 1.5rem;
+  margin: 1rem 0;
+  color: #334155;
+}
+
+.VPDoc li {
+  margin: 0.4rem 0;
+}
+
+/* =========================================================
+   表格全响应式排版与优雅滚动优化 (彻底根治单元格竖排挤压断字)
+   ========================================================= */
+.vp-doc table,
+.VPDoc table {
+  display: block !important;
+  width: 100% !important;
+  max-width: 100% !important;
+  overflow-x: auto !important;
+  -webkit-overflow-scrolling: touch !important;
+  border-collapse: separate !important;
+  border-spacing: 0 !important;
+  margin: 1.5rem 0 2rem !important;
+  font-size: 0.88rem !important;
+  line-height: 1.6 !important;
+  border: 1px solid #e2e8f0 !important;
+  border-radius: 8px !important;
+  background-color: #ffffff !important;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.02) !important;
+}
+
+.vp-doc table::-webkit-scrollbar,
+.VPDoc table::-webkit-scrollbar {
+  height: 6px !important;
+}
+
+.vp-doc table::-webkit-scrollbar-track,
+.VPDoc table::-webkit-scrollbar-track {
+  background: #f8fafc !important;
+  border-radius: 3px !important;
+}
+
+.vp-doc table::-webkit-scrollbar-thumb,
+.VPDoc table::-webkit-scrollbar-thumb {
+  background: #cbd5e1 !important;
+  border-radius: 3px !important;
+}
+
+.vp-doc table::-webkit-scrollbar-thumb:hover,
+.VPDoc table::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8 !important;
+}
+
+.vp-doc thead,
+.VPDoc thead {
+  background-color: #f8fafc !important;
+}
+
+.vp-doc th,
+.VPDoc th {
+  background-color: #f8fafc !important;
+  color: #1e293b !important;
+  font-weight: 600 !important;
+  padding: 0.8rem 1rem !important;
+  border-bottom: 2px solid #e2e8f0 !important;
+  border-right: 1px solid #f1f5f9 !important;
+  white-space: nowrap !important; /* 核心：表头绝对禁止单字折行竖排 */
+  word-break: keep-all !important;
+  overflow-wrap: normal !important;
+  letter-spacing: 0.02em !important;
+  text-align: left;
+}
+
+.vp-doc th:last-child,
+.VPDoc th:last-child {
+  border-right: none !important;
+}
+
+.vp-doc td,
+.VPDoc td {
+  padding: 0.75rem 1rem !important;
+  border-bottom: 1px solid #f1f5f9 !important;
+  border-right: 1px solid #f8fafc !important;
+  color: #334155 !important;
+  white-space: nowrap !important; /* 核心：禁止指标、价格、延迟被挤压断行 */
+  word-break: keep-all !important;
+  overflow-wrap: normal !important;
+  vertical-align: middle !important;
+  font-size: 0.88rem !important;
+}
+
+.vp-doc td:last-child,
+.VPDoc td:last-child {
+  border-right: none !important;
+}
+
+.vp-doc tr:last-child td,
+.VPDoc tr:last-child td {
+  border-bottom: none !important;
+}
+
+.vp-doc tr:hover td,
+.VPDoc tr:hover td {
+  background-color: #fbfcfe !important;
+}
+
+/* 对于包含长句说明/解决方案的列，允许自然折行并设定充裕最小宽度 */
+.vp-doc td:has(p),
+.VPDoc td:has(p),
+.vp-doc td:has(ul),
+.VPDoc td:has(ul) {
+  white-space: normal !important;
+  min-width: 220px !important;
+}
+
+/* 代码块与 ASCII 拓扑图排版保护 */
+.vp-doc pre,
+.VPDoc pre {
+  font-family: var(--vp-font-family-mono) !important;
+  font-size: 0.86rem !important;
+  line-height: 1.55 !important;
+  overflow-x: auto !important;
+  padding: 1.25rem !important;
+  border-radius: 8px !important;
+  background-color: #f8fafc !important;
+  border: 1px solid #e2e8f0 !important;
+  color: #1e293b !important;
+}
+
+/* 引用块增强 */
+.VPDoc blockquote {
+  border-left: 4px solid #2563eb;
+  background-color: #f8fafc;
+  padding: 1rem 1.25rem;
+  margin: 1.5rem 0;
+  border-radius: 0 8px 8px 0;
+  color: #334155;
+}
+
+/* 导航栏专业微调与 10 主分类紧凑排版 */
+.VPNavBar {
+  background-color: rgba(255, 255, 255, 0.95) !important;
+  backdrop-filter: blur(12px);
+  border-bottom: 1px solid #e2e8f0;
+}
+
+.VPNavBarMenu {
+  gap: 2px !important;
+}
+
+.VPNavBarMenuLink, .VPNavBarMenuGroupButton {
+  font-weight: 500;
+  font-size: 0.86rem !important;
+  padding: 0 6px !important;
+  letter-spacing: -0.01em;
+}
+
+.VPNavBarSearch {
+  padding-left: 8px !important;
+}
+
+/* 首页 Hero 与模块样式 */
+.home-hero {
+  text-align: center;
+  padding: 3.5rem 1.5rem 2.5rem;
+  background: linear-gradient(180deg, #f8fafc 0%, #ffffff 100%);
+  border-bottom: 1px solid #e2e8f0;
+  margin-bottom: 2.5rem;
+}
+
+.home-hero-badge {
+  display: inline-block;
+  background: #eff6ff;
+  color: #2563eb;
+  padding: 0.25rem 0.85rem;
+  border-radius: 20px;
+  font-size: 0.82rem;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  margin-bottom: 1rem;
+  border: 1px solid #dbeafe;
+}
+
+.home-hero-title {
+  font-size: 2.75rem;
+  font-weight: 900;
+  color: #0f172a;
+  letter-spacing: -0.03em;
+  margin-bottom: 1rem;
+}
+
+.home-hero-sub {
+  font-size: 1.2rem;
+  color: #64748b;
+  max-width: 780px;
+  margin: 0 auto 1.5rem;
+  line-height: 1.6;
+}
+
+.home-topics-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.25rem;
+  margin: 2rem 0;
+}
+
+.topic-box {
+  background: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-radius: 10px;
+  padding: 1.25rem;
+  transition: all 0.2s ease;
+  text-decoration: none !important;
+  display: flex;
+  flex-direction: column;
+}
+
+.topic-box:hover {
+  border-color: #93c5fd;
+  transform: translateY(-2px);
+  box-shadow: 0 8px 20px rgba(37, 99, 235, 0.06);
+}
+
+.topic-box-icon {
+  font-size: 1.6rem;
+  margin-bottom: 0.5rem;
+}
+
+.topic-box-title {
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: #0f172a;
+  margin-bottom: 0.4rem;
+}
+
+.topic-box-desc {
+  font-size: 0.88rem;
+  color: #64748b;
+  line-height: 1.5;
+  margin-bottom: 0.75rem;
+  flex-grow: 1;
+}
+
+.topic-box-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  border-top: 1px dashed #f1f5f9;
+  padding-top: 0.6rem;
+}
+
+.topic-sub-tag {
+  font-size: 0.78rem;
+  background: #f8fafc;
+  color: #2563eb;
+  padding: 0.15rem 0.45rem;
+  border-radius: 4px;
+}
+
+/* 商业合规 Disclosure 条 */
+.affiliate-disclosure-banner {
+  background: #f8fafc;
+  border: 1px solid #e2e8f0;
+  border-radius: 6px;
+  padding: 0.75rem 1rem;
+  font-size: 0.82rem;
+  color: #64748b;
+  margin: 1.5rem 0;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+/* 响应式适配 */
+@media (max-width: 768px) {
+  .home-hero-title {
+    font-size: 2rem;
+  }
+  .home-hero-sub {
+    font-size: 1rem;
+  }
+  .home-topics-grid {
+    grid-template-columns: 1fr;
+  }
+}

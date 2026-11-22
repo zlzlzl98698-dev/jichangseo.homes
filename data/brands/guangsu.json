@@ -1,0 +1,144 @@
+{
+  "id": "brand-01",
+  "name": "光速云",
+  "aliases": [
+    "LightSpeed",
+    "光速云加速"
+  ],
+  "slug": "guangsu",
+  "isPrimary": true,
+  "rank": 1,
+  "tagline": "老牌企业级 IEPL 专线，VLESS 协议与自研多端支持",
+  "foundedAt": "2020",
+  "officialUrl": "https://sahude.gsyvipaff.com/#/?code=keqgvT5Y",
+  "affiliateUrl": "https://sahude.gsyvipaff.com/#/?code=keqgvT5Y",
+  "coupon": "AMM",
+  "couponDiscount": "首单优惠券",
+  "minPriceMonthly": 8,
+  "minPriceNote": "年付折合约 ¥8/月 (99元/年 69GB/月)",
+  "protocols": [
+    "VLESS",
+    "Trojan"
+  ],
+  "networkTypes": [
+    "IEPL专线",
+    "企业级内网专线",
+    "全球IPLC"
+  ],
+  "nodeRegions": [
+    "香港×20",
+    "台湾×5",
+    "日本×10",
+    "新加坡×10",
+    "美国×10",
+    "马来西亚×2",
+    "英国",
+    "法国",
+    "德国",
+    "土耳其",
+    "泰国",
+    "巴西"
+  ],
+  "nodeCount": "70+",
+  "clients": [
+    "光速云自研客户端(Win/Mac/Android)",
+    "Clash Verge Rev",
+    "v2rayN",
+    "Shadowrocket",
+    "Sing-box"
+  ],
+  "aiSupport": {
+    "chatgpt": "节点支持(按节点分类)",
+    "claude": "全节点支持",
+    "gemini": "需指定原生美国/英国节点",
+    "notes": "官方提供AI专用分组，晚高峰连接稳定"
+  },
+  "streamingSupport": {
+    "netflix": "全区解锁",
+    "disney": "全区解锁",
+    "youtube": "4K/8K 极速流畅",
+    "tiktok": "支持跨境电商与直播原生IP",
+    "notes": "支持香港、日本、美国、新加坡等多地流媒体解锁"
+  },
+  "benchmarkResults": {
+    "testedAt": "2026-10-19 / 2026-08-11",
+    "latency": "香港 22ms / 台湾 41ms / 新加坡 46ms / 日本 57ms / 美国 143ms",
+    "downloadSpeed": "香港 529Mbps / 新加坡 387Mbps / 日本 135Mbps / 台湾 114Mbps",
+    "packetLoss": "0%",
+    "image": "/images/benchmarks/光速云-节点测速实测.png",
+    "source": "MAI-TEST-BOT 2.0.0-dev 实测截图",
+    "verified": true
+  },
+  "plans": [
+    {
+      "name": "致敬斯诺克147永久套餐",
+      "price": 147,
+      "period": "一次性",
+      "bandwidth": "247GB不过期",
+      "notes": "不限设备，原生稳定节点，最高2.5Gbps"
+    },
+    {
+      "name": "轻量版",
+      "price": 99,
+      "period": "年付",
+      "bandwidth": "69GB/月",
+      "notes": "折合约 ¥8.25/月，适合日常办公与轻度娱乐"
+    },
+    {
+      "name": "极速版",
+      "price": 25,
+      "period": "月付",
+      "bandwidth": "168GB/月",
+      "notes": "全球IPLC专线，全节点1倍率，单节点最高2.5Gbps"
+    },
+    {
+      "name": "流光版",
+      "price": 34,
+      "period": "月付",
+      "bandwidth": "268GB/月",
+      "notes": "高带宽专线，适合流媒体重度用户"
+    },
+    {
+      "name": "量子版",
+      "price": 68,
+      "period": "月付",
+      "bandwidth": "568GB/月",
+      "notes": "适合团队与多设备重度流量需求"
+    },
+    {
+      "name": "无界版",
+      "price": 138,
+      "period": "月付",
+      "bandwidth": "900GB/月",
+      "notes": "超大流量，高并发支持"
+    },
+    {
+      "name": "定制套餐",
+      "price": 680,
+      "period": "月付",
+      "bandwidth": "500GB/月",
+      "notes": "独享原生IP，独立专线带宽，一对一客服配置"
+    }
+  ],
+  "strengths": [
+    "2020年稳定运营至今，品牌口碑与持续服务信誉良好",
+    "IEPL企业内网专线+VLESS协议，晚高峰抵抗QoS干扰能力强",
+    "套餐覆盖极广，从8元入门轻量版到一次性永久包及独享企业定制版均有覆盖",
+    "自研客户端与第三方通用订阅双支持，小白与进阶玩家皆适宜",
+    "实测香港节点延迟仅 22ms，下载速率超 500Mbps"
+  ],
+  "limitations": [
+    "Gemini 等极严格AI风控服务需切换指定原生出口节点",
+    "轻量年付套餐不支持中途退款，建议新手先选小额或月付试用",
+    "高峰期部分欧美长距离节点测速有一定波动"
+  ],
+  "suitableUsers": "注重晚高峰极速稳定、跨境外贸电商、AI生产力研发、流媒体重度观看及追求长久运营不跑路的用户",
+  "riskNotes": "特价年付与活动套餐购买后按行业惯例不支持退款，请先小额测试确认本地ISP互联良好再长期使用",
+  "dataStatus": "实测验证",
+  "sources": [
+    "品牌官方文档",
+    "MAI-TEST-BOT 实测报告",
+    "光速云内部架构资料"
+  ],
+  "logo": "/images/logos/光速云主图.png"
+}

@@ -1,0 +1,92 @@
+{
+  "id": "brand-13",
+  "name": "灵猫网络",
+  "aliases": [
+    "lingmao",
+    "CivetNet"
+  ],
+  "slug": "lingmao",
+  "rank": 13,
+  "tagline": "19元150GB高性价比 + 不限时流量组合拳",
+  "foundedAt": "2022",
+  "officialUrl": "https://vip01.civetnet.com/#/?code=8MIAyxak",
+  "affiliateUrl": "https://vip01.civetnet.com/#/?code=8MIAyxak",
+  "coupon": "lmao888",
+  "minPriceMonthly": 19,
+  "minPriceNote": "月付 ¥19/150GB",
+  "protocols": [
+    "VLESS",
+    "Trojan"
+  ],
+  "networkTypes": [
+    "BGP中转",
+    "专线优化"
+  ],
+  "nodeRegions": [
+    "香港",
+    "台湾",
+    "日本",
+    "新加坡",
+    "美国"
+  ],
+  "nodeCount": "50+",
+  "clients": [
+    "Clash Verge Rev",
+    "v2rayN",
+    "Shadowrocket",
+    "Sing-box"
+  ],
+  "aiSupport": {
+    "chatgpt": "支持",
+    "claude": "支持",
+    "gemini": "支持",
+    "notes": "AI支持良好"
+  },
+  "streamingSupport": {
+    "netflix": "全区解锁",
+    "disney": "支持",
+    "youtube": "4K秒开",
+    "tiktok": "支持",
+    "notes": "流媒体解锁表现亮眼"
+  },
+  "benchmarkResults": {
+    "testedAt": "2026-08-11",
+    "latency": "香港 33ms / 日本 54ms",
+    "downloadSpeed": "最高 71.3 MB/s",
+    "packetLoss": "0%",
+    "image": "/images/benchmarks/灵猫网络-节点测速实测.png",
+    "source": "MAI-TEST-BOT 实测",
+    "verified": true
+  },
+  "plans": [
+    {
+      "name": "灵猫畅享版",
+      "price": 19,
+      "period": "月付",
+      "bandwidth": "150GB/月",
+      "notes": "性价比极高"
+    },
+    {
+      "name": "灵猫不限时",
+      "price": 99,
+      "period": "一次性",
+      "bandwidth": "200GB",
+      "notes": "长期备用"
+    }
+  ],
+  "strengths": [
+    "19元给到150GB流量，单G成本低",
+    "实测下行超过 570Mbps",
+    "不限时套餐可选"
+  ],
+  "limitations": [
+    "欧美边缘节点数量相对较少"
+  ],
+  "suitableUsers": "预算有限但每月用量超过100G的重度用户",
+  "riskNotes": "运营稳健，建议月付",
+  "dataStatus": "实测验证",
+  "sources": [
+    "MAI-TEST-BOT 实测"
+  ],
+  "logo": "/images/logos/galaxy_transparent_square.webp"
+}

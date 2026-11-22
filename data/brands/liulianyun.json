@@ -1,0 +1,78 @@
+{
+  "id": "brand-24",
+  "name": "榴莲云",
+  "aliases": [
+    "liulianyun"
+  ],
+  "slug": "liulianyun",
+  "rank": 24,
+  "tagline": "5.6元档位极简备用，超小成本开支",
+  "foundedAt": "2023",
+  "officialUrl": "https://qwerty.liulianyunaff.com#/?code=hS5pvbfE",
+  "affiliateUrl": "https://qwerty.liulianyunaff.com#/?code=hS5pvbfE",
+  "coupon": "ll88",
+  "minPriceMonthly": 5.6,
+  "minPriceNote": "¥5.6/月 60GB",
+  "protocols": [
+    "Shadowsocks",
+    "Trojan"
+  ],
+  "networkTypes": [
+    "普通中转"
+  ],
+  "nodeRegions": [
+    "香港",
+    "日本",
+    "美国"
+  ],
+  "nodeCount": "20+",
+  "clients": [
+    "Clash Verge Rev",
+    "v2rayN",
+    "Shadowrocket"
+  ],
+  "aiSupport": {
+    "chatgpt": "受限",
+    "claude": "受限",
+    "gemini": "受限",
+    "notes": "非专线节点"
+  },
+  "streamingSupport": {
+    "netflix": "部分解锁",
+    "disney": "受限",
+    "youtube": "1080P",
+    "tiktok": "受限",
+    "notes": "基础网页视频"
+  },
+  "benchmarkResults": {
+    "testedAt": "2026待实测",
+    "latency": "~80ms",
+    "downloadSpeed": "~90Mbps",
+    "packetLoss": "2%",
+    "image": null,
+    "source": "厂商宣称",
+    "verified": false
+  },
+  "plans": [
+    {
+      "name": "榴莲尝鲜版",
+      "price": 5.6,
+      "period": "月付",
+      "bandwidth": "60GB/月",
+      "notes": "超低价"
+    }
+  ],
+  "strengths": [
+    "月付仅需5.6元"
+  ],
+  "limitations": [
+    "晚高峰卡顿，协议细节披露较少"
+  ],
+  "suitableUsers": "作为第二备用梯",
+  "riskNotes": "仅适合月付",
+  "dataStatus": "厂商宣称",
+  "sources": [
+    "品牌清单"
+  ],
+  "logo": "/images/logos/galaxy_transparent_square.webp"
+}

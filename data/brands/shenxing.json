@@ -1,0 +1,81 @@
+{
+  "id": "brand-25",
+  "name": "神行加速",
+  "aliases": [
+    "shenxing"
+  ],
+  "slug": "shenxing",
+  "rank": 25,
+  "tagline": "14元120GB进阶中转，日常刷剧与社媒之选",
+  "foundedAt": "2023",
+  "officialUrl": "https://qwerty.shenxingaff.com/#/?code=gawDQqVE",
+  "affiliateUrl": "https://qwerty.shenxingaff.com/#/?code=gawDQqVE",
+  "coupon": "xs0077",
+  "minPriceMonthly": 14,
+  "minPriceNote": "¥14/月 120GB",
+  "protocols": [
+    "VLESS",
+    "Trojan"
+  ],
+  "networkTypes": [
+    "BGP优化中转"
+  ],
+  "nodeRegions": [
+    "香港",
+    "台湾",
+    "日本",
+    "新加坡",
+    "美国"
+  ],
+  "nodeCount": "32+",
+  "clients": [
+    "Clash Verge Rev",
+    "v2rayN",
+    "Shadowrocket"
+  ],
+  "aiSupport": {
+    "chatgpt": "支持",
+    "claude": "支持",
+    "gemini": "视节点",
+    "notes": "主流AI支持可用"
+  },
+  "streamingSupport": {
+    "netflix": "解锁",
+    "disney": "支持",
+    "youtube": "4K",
+    "tiktok": "支持",
+    "notes": "视频体验良好"
+  },
+  "benchmarkResults": {
+    "testedAt": "2026待实测",
+    "latency": "~55ms",
+    "downloadSpeed": "~200Mbps",
+    "packetLoss": "0.5%",
+    "image": null,
+    "source": "厂商宣称",
+    "verified": false
+  },
+  "plans": [
+    {
+      "name": "神行标准版",
+      "price": 14,
+      "period": "月付",
+      "bandwidth": "120GB/月",
+      "notes": "均衡选择"
+    }
+  ],
+  "strengths": [
+    "14元120GB性价比适中",
+    "优惠码可用"
+  ],
+  "limitations": [
+    "缺少独立测速报告图片"
+  ],
+  "suitableUsers": "追求中低预算平衡的用户",
+  "riskNotes": "按月续费",
+  "dataStatus": "厂商宣称",
+  "sources": [
+    "品牌清单"
+  ],
+  "logo": "/images/logos/galaxy_transparent_square.webp"
+}

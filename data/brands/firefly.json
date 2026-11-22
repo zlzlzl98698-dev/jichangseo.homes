@@ -1,0 +1,108 @@
+{
+  "id": "brand-10",
+  "name": "Firefly",
+  "aliases": [
+    "firefly",
+    "萤火虫",
+    "飞为"
+  ],
+  "slug": "firefly",
+  "rank": 10,
+  "tagline": "8年老牌团队操刀，全节点不限速不限设备，免翻墙官网",
+  "foundedAt": "2018",
+  "officialUrl": "https://vip02.fireflyaff.com/#/?code=2n7VURre",
+  "affiliateUrl": "https://vip02.fireflyaff.com/#/?code=2n7VURre",
+  "coupon": "firefly",
+  "couponDiscount": "首单8折 (除年付版)",
+  "minPriceMonthly": 8,
+  "minPriceNote": "年付 ¥96 (折合 ¥8/月，60GB/月)",
+  "protocols": [
+    "VLESS",
+    "Trojan"
+  ],
+  "networkTypes": [
+    "全IPLC专线",
+    "原生IP出口"
+  ],
+  "nodeRegions": [
+    "香港",
+    "台湾",
+    "新加坡",
+    "日本",
+    "美国"
+  ],
+  "nodeCount": "50+",
+  "clients": [
+    "专属客户端(下载即用)",
+    "第三方通用客户端"
+  ],
+  "aiSupport": {
+    "chatgpt": "原生IP全支持",
+    "claude": "全支持",
+    "gemini": "原生IP支持",
+    "notes": "原生IP节点，AI工具极少触发降级警告"
+  },
+  "streamingSupport": {
+    "netflix": "全区解锁",
+    "disney": "全区解锁",
+    "youtube": "4K极速",
+    "tiktok": "原生解锁",
+    "notes": "流媒体支持极为出色"
+  },
+  "benchmarkResults": {
+    "testedAt": "2026-10-19",
+    "latency": "香港 27ms / 台湾 39ms / 新加坡 42ms / 日本 51ms",
+    "downloadSpeed": "香港 547Mbps / 新加坡 440Mbps",
+    "packetLoss": "0%",
+    "image": null,
+    "source": "实测数据表记录",
+    "verified": true
+  },
+  "plans": [
+    {
+      "name": "Firefly年付版",
+      "price": 96,
+      "period": "年付",
+      "bandwidth": "60GB/月",
+      "notes": "折合 ¥8/月"
+    },
+    {
+      "name": "Firefly Lite",
+      "price": 25,
+      "period": "月付",
+      "bandwidth": "150GB/月",
+      "notes": "全节点不限速"
+    },
+    {
+      "name": "Firefly Plus",
+      "price": 45,
+      "period": "月付",
+      "bandwidth": "300GB/月",
+      "notes": "中重度生产力"
+    },
+    {
+      "name": "Firefly不限时",
+      "price": 100,
+      "period": "一次性",
+      "bandwidth": "100GB",
+      "notes": "永不过期"
+    }
+  ],
+  "strengths": [
+    "8年海外专业技术团队维护，信誉老牌",
+    "全节点不限速且不限制设备数量",
+    "原生IP覆盖度高，ChatGPT/Claude稳定度顶级",
+    "免翻墙即可直接访问官网"
+  ],
+  "limitations": [
+    "年付特价版不参与额外折扣码"
+  ],
+  "suitableUsers": "AI重度研发人员、跨境外贸团队、多设备家庭用户",
+  "riskNotes": "老牌团队，抗风险能力高",
+  "dataStatus": "实测验证",
+  "sources": [
+    "品牌资料",
+    "实测记录"
+  ],
+  "logo": "/images/logos/fclogo.webp"
+}

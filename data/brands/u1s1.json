@@ -1,0 +1,85 @@
+{
+  "id": "brand-12",
+  "name": "U1S1",
+  "aliases": [
+    "u1s1",
+    "有一说一"
+  ],
+  "slug": "u1s1",
+  "rank": 12,
+  "tagline": "有一说一真实测速，20元120GB标准品质之选",
+  "foundedAt": "2022",
+  "officialUrl": "https://guangs.vipaff.cc/#/?code=xhX5X22f",
+  "affiliateUrl": "https://guangs.vipaff.cc/#/?code=xhX5X22f",
+  "coupon": "akaka",
+  "minPriceMonthly": 20,
+  "minPriceNote": "月付 ¥20/120GB",
+  "protocols": [
+    "VLESS",
+    "Trojan"
+  ],
+  "networkTypes": [
+    "BGP优化中转",
+    "多线负载"
+  ],
+  "nodeRegions": [
+    "香港",
+    "日本",
+    "新加坡",
+    "美国",
+    "英国"
+  ],
+  "nodeCount": "42+",
+  "clients": [
+    "Clash Verge Rev",
+    "v2rayN",
+    "Shadowrocket",
+    "FlClash"
+  ],
+  "aiSupport": {
+    "chatgpt": "支持",
+    "claude": "支持",
+    "gemini": "视节点",
+    "notes": "常规AI支持稳定"
+  },
+  "streamingSupport": {
+    "netflix": "全区解锁",
+    "disney": "支持",
+    "youtube": "4K",
+    "tiktok": "支持",
+    "notes": "流媒体体验佳"
+  },
+  "benchmarkResults": {
+    "testedAt": "2026-08-11",
+    "latency": "香港 31ms / 新加坡 48ms",
+    "downloadSpeed": "最高 64.9 MB/s",
+    "packetLoss": "0%",
+    "image": "/images/benchmarks/U1S1-节点测速实测.png",
+    "source": "MAI-TEST-BOT 实测",
+    "verified": true
+  },
+  "plans": [
+    {
+      "name": "U1S1标准套餐",
+      "price": 20,
+      "period": "月付",
+      "bandwidth": "120GB/月",
+      "notes": "稳定不折腾"
+    }
+  ],
+  "strengths": [
+    "实测速率超 500Mbps",
+    "节点冗余充足，晚高峰稳定性好",
+    "MAI-TEST-BOT 实测验证"
+  ],
+  "limitations": [
+    "缺少超低价试用型小包"
+  ],
+  "suitableUsers": "追求省心稳定、日常看剧办公的用户",
+  "riskNotes": "正常运营，建议月付使用",
+  "dataStatus": "实测验证",
+  "sources": [
+    "MAI-TEST-BOT 实测"
+  ],
+  "logo": "/images/logos/u1s1主图.png"
+}

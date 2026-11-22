@@ -1,0 +1,143 @@
+[
+  {
+    "clusterId": "cluster-airport-recommend",
+    "name": "机场推荐与选择集群",
+    "primaryKeyword": "机场推荐",
+    "pillarUrl": "/airport/",
+    "subKeywords": [
+      "2026机场推荐",
+      "靠谱机场推荐",
+      "稳定机场排行",
+      "好用的机场",
+      "新手机场推荐",
+      "专线机场推荐",
+      "备用机场选择"
+    ],
+    "articles": [
+      {
+        "title": "2026年机场推荐选购指南",
+        "url": "/airport/guide-2026"
+      },
+      {
+        "title": "稳定机场必须满足的六大硬性指标",
+        "url": "/airport/stable"
+      },
+      {
+        "title": "新手第一次购买机场避坑全攻略",
+        "url": "/airport/beginner"
+      }
+    ]
+  },
+  {
+    "clusterId": "cluster-pricing",
+    "name": "机场价格与套餐集群",
+    "primaryKeyword": "便宜机场",
+    "pillarUrl": "/pricing/",
+    "subKeywords": [
+      "一元机场",
+      "一分机场",
+      "月付机场推荐",
+      "不限时流量机场",
+      "永久套餐机场",
+      "性价比机场排行"
+    ],
+    "articles": [
+      {
+        "title": "便宜机场与一元机场真实风险与体验分析",
+        "url": "/pricing/cheap"
+      },
+      {
+        "title": "月付还是年付？机场计费周期避坑指南",
+        "url": "/pricing/billing-cycles"
+      },
+      {
+        "title": "不限时流量包适用人群与测算分析",
+        "url": "/pricing/no-expiry"
+      }
+    ]
+  },
+  {
+    "clusterId": "cluster-brands",
+    "name": "品牌评测与对比集群",
+    "primaryKeyword": "机场品牌评测",
+    "pillarUrl": "/brands/",
+    "subKeywords": [
+      "光速云评测",
+      "暮光加速评测",
+      "飞猫云怎么样",
+      "星岛梦机场",
+      "微风网络测速",
+      "梯子云怎么样"
+    ],
+    "articles": [
+      {
+        "title": "光速云深度评测：企业级IEPL专线实测报告",
+        "url": "/reviews/guangsu"
+      },
+      {
+        "title": "飞猫云评测：免配置客户端与7元性价比实测",
+        "url": "/reviews/feimao"
+      },
+      {
+        "title": "暮光加速深度评测：多设备协同与BGP智能调度",
+        "url": "/reviews/muguang"
+      }
+    ]
+  },
+  {
+    "clusterId": "cluster-clients",
+    "name": "客户端下载与配置集群",
+    "primaryKeyword": "代理客户端下载",
+    "pillarUrl": "/clients/",
+    "subKeywords": [
+      "Clash Verge Rev下载",
+      "v2rayN教程",
+      "Shadowrocket小火箭",
+      "Sing-box配置",
+      "FlClash下载",
+      "OpenWrt科学上网"
+    ],
+    "articles": [
+      {
+        "title": "Clash Verge Rev Windows/macOS 从下载到进阶全指南",
+        "url": "/clients/clash-verge-rev"
+      },
+      {
+        "title": "v2rayN 电脑端小白入门与Xray多核心配置教程",
+        "url": "/clients/v2rayn"
+      },
+      {
+        "title": "Shadowrocket 小火箭 iOS 安装与订阅导入详解",
+        "url": "/clients/shadowrocket"
+      }
+    ]
+  },
+  {
+    "clusterId": "cluster-troubleshooting",
+    "name": "网络故障与节点排查集群",
+    "primaryKeyword": "节点连接不上",
+    "pillarUrl": "/troubleshooting/",
+    "subKeywords": [
+      "节点超时",
+      "订阅更新失败",
+      "DNS污染",
+      "TUN模式无网络",
+      "ChatGPT打不开",
+      "Netflix代理警告"
+    ],
+    "articles": [
+      {
+        "title": "节点超时与全红连接不上：10分钟系统排查流程",
+        "url": "/troubleshooting/timeout"
+      },
+      {
+        "title": "订阅更新失败：链接打不开或格式错误排查",
+        "url": "/troubleshooting/subscription-error"
+      },
+      {
+        "title": "AI 工具与流媒体解锁失败常见原因与解决方案",
+        "url": "/troubleshooting/ai-streaming-issue"
+      }
+    ]
+  }
+]

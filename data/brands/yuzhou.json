@@ -1,0 +1,83 @@
+{
+  "id": "brand-11",
+  "name": "宇宙云",
+  "aliases": [
+    "yuzhou",
+    "YuZhou"
+  ],
+  "slug": "yuzhou",
+  "rank": 11,
+  "tagline": "IEPL专线 + VLESS协议，专属自研客户端无缝对接",
+  "foundedAt": "2023",
+  "officialUrl": "https://wzjc.yuzoucloud.cc/#/?code=yrThwMP1",
+  "affiliateUrl": "https://wzjc.yuzoucloud.cc/#/?code=yrThwMP1",
+  "coupon": "YUZHOU553",
+  "minPriceMonthly": 15,
+  "minPriceNote": "月付 ¥15起",
+  "protocols": [
+    "VLESS"
+  ],
+  "networkTypes": [
+    "IEPL专线"
+  ],
+  "nodeRegions": [
+    "香港",
+    "台湾",
+    "日本",
+    "新加坡",
+    "美国"
+  ],
+  "nodeCount": "35+",
+  "clients": [
+    "宇宙云专属客户端",
+    "Clash Verge Rev",
+    "v2rayN",
+    "Shadowrocket"
+  ],
+  "aiSupport": {
+    "chatgpt": "支持",
+    "claude": "支持",
+    "gemini": "部分节点",
+    "notes": "专线直达保障连接"
+  },
+  "streamingSupport": {
+    "netflix": "解锁",
+    "disney": "解锁",
+    "youtube": "4K",
+    "tiktok": "支持",
+    "notes": "流媒体支持良好"
+  },
+  "benchmarkResults": {
+    "testedAt": "2026-08-12",
+    "latency": "香港 44ms",
+    "downloadSpeed": "最高 58.7 MB/s",
+    "packetLoss": "0.1%",
+    "image": "/images/benchmarks/宇宙云-节点测速实测.png",
+    "source": "MAI-TEST-BOT 实测",
+    "verified": true
+  },
+  "plans": [
+    {
+      "name": "星河体验版",
+      "price": 15,
+      "period": "月付",
+      "bandwidth": "100GB/月",
+      "notes": "IEPL高速专线"
+    }
+  ],
+  "strengths": [
+    "IEPL专线晚高峰防抖",
+    "MAI-TEST-BOT 实测有图",
+    "自研客户端操作直观"
+  ],
+  "limitations": [
+    "节点地区主要集中在亚太"
+  ],
+  "suitableUsers": "看重专线质量的新手与日常娱乐用户",
+  "riskNotes": "建议按月或按季续费",
+  "dataStatus": "实测验证",
+  "sources": [
+    "MAI-TEST-BOT 实测"
+  ],
+  "logo": "/images/logos/yuzhou_logo.webp"
+}

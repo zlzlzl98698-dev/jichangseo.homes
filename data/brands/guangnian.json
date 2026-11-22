@@ -1,0 +1,80 @@
+{
+  "id": "brand-15",
+  "name": "光年梯",
+  "aliases": [
+    "guangnian"
+  ],
+  "slug": "guangnian",
+  "rank": 15,
+  "tagline": "18元110GB均衡配比，实测测速图有据可依",
+  "foundedAt": "2023",
+  "officialUrl": "https://guangs.gntaff.com/#/?code=X1FoxjGE",
+  "affiliateUrl": "https://guangs.gntaff.com/#/?code=X1FoxjGE",
+  "coupon": "gnt6666",
+  "minPriceMonthly": 18,
+  "minPriceNote": "月付 ¥18/110GB",
+  "protocols": [
+    "VLESS",
+    "Trojan"
+  ],
+  "networkTypes": [
+    "BGP优化专线"
+  ],
+  "nodeRegions": [
+    "香港",
+    "日本",
+    "新加坡",
+    "美国"
+  ],
+  "nodeCount": "35+",
+  "clients": [
+    "Clash Verge Rev",
+    "v2rayN",
+    "Shadowrocket"
+  ],
+  "aiSupport": {
+    "chatgpt": "支持",
+    "claude": "支持",
+    "gemini": "视节点",
+    "notes": "常规支持"
+  },
+  "streamingSupport": {
+    "netflix": "解锁",
+    "disney": "支持",
+    "youtube": "4K",
+    "tiktok": "支持",
+    "notes": "主流流媒体"
+  },
+  "benchmarkResults": {
+    "testedAt": "2026-08-11",
+    "latency": "香港 34ms",
+    "downloadSpeed": "最高 59.8 MB/s",
+    "packetLoss": "0%",
+    "image": "/images/benchmarks/光年梯-节点测速实测.png",
+    "source": "MAI-TEST-BOT 实测",
+    "verified": true
+  },
+  "plans": [
+    {
+      "name": "光年探索版",
+      "price": 18,
+      "period": "月付",
+      "bandwidth": "110GB/月",
+      "notes": "均衡流量"
+    }
+  ],
+  "strengths": [
+    "MAI-TEST-BOT 测速实测证实带宽充足",
+    "18元档位给110GB稍多于同类"
+  ],
+  "limitations": [
+    "缺少专属独立客户端"
+  ],
+  "suitableUsers": "熟悉Clash导入流程的常规用户",
+  "riskNotes": "月付体验优先",
+  "dataStatus": "实测验证",
+  "sources": [
+    "MAI-TEST-BOT 实测"
+  ],
+  "logo": "/images/logos/光年梯主图.png"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "brand-29",
+  "name": "灵动云",
+  "aliases": [
+    "lingdong",
+    "LingDongCloud"
+  ],
+  "slug": "lingdong",
+  "rank": 29,
+  "tagline": "2025年开业专线，VLESS大流量与私人定制套餐齐备",
+  "foundedAt": "2025",
+  "officialUrl": "https://varnexa.lingdongaff.com/#/?code=wZvEhEoI",
+  "affiliateUrl": "https://varnexa.lingdongaff.com/#/?code=wZvEhEoI",
+  "coupon": null,
+  "minPriceMonthly": 20,
+  "minPriceNote": "月付 ¥20/100GB",
+  "protocols": [
+    "VLESS",
+    "Trojan"
+  ],
+  "networkTypes": [
+    "IEPL专线",
+    "不限速不限设备"
+  ],
+  "nodeRegions": [
+    "香港",
+    "台湾",
+    "日本",
+    "新加坡",
+    "美国"
+  ],
+  "nodeCount": "40+",
+  "clients": [
+    "Clash Verge Rev",
+    "v2rayN",
+    "Shadowrocket"
+  ],
+  "aiSupport": {
+    "chatgpt": "实测良好",
+    "claude": "支持",
+    "gemini": "视节点",
+    "notes": "主流AI表现较佳"
+  },
+  "streamingSupport": {
+    "netflix": "全区解锁",
+    "disney": "支持",
+    "youtube": "4K",
+    "tiktok": "支持",
+    "notes": "流媒体支持良好"
+  },
+  "benchmarkResults": {
+    "testedAt": "2026-08-09历史记录",
+    "latency": "香港 35ms",
+    "downloadSpeed": "平均 350Mbps",
+    "packetLoss": "0.2%",
+    "image": null,
+    "source": "历史品牌库记录",
+    "verified": true
+  },
+  "plans": [
+    {
+      "name": "灵动·拂风",
+      "price": 20,
+      "period": "月付",
+      "bandwidth": "100GB/月",
+      "notes": "IEPL专线"
+    },
+    {
+      "name": "灵动·季付",
+      "price": 57,
+      "period": "季付",
+      "bandwidth": "100GB/月",
+      "notes": "季付优惠"
+    }
+  ],
+  "strengths": [
+    "IEPL专线+VLESS协议",
+    "不限速不限设备数量",
+    "主流AI解锁表现良好"
+  ],
+  "limitations": [
+    "公开优惠码暂未核实"
+  ],
+  "suitableUsers": "需要多设备同时在线的大流量用户",
+  "riskNotes": "历史资料记录，建议月付核验",
+  "dataStatus": "历史资料记录",
+  "sources": [
+    "2026-08-09历史记录"
+  ],
+  "logo": "/images/logos/灵动云256x256.png"
+}
